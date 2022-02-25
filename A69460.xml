@@ -1,0 +1,1014 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The amours of Bonne Sforza, queen of Polonia.</title>
+            <title>Les amours de Bonne Sforza, reigne de Pologne. English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 149 KB of XML-encoded text transcribed from 84 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69460</idno>
+            <idno type="STC">Wing A3021B</idno>
+            <idno type="STC">ESTC R2331</idno>
+            <idno type="EEBO-CITATION">99834080</idno>
+            <idno type="PROQUEST">99834080</idno>
+            <idno type="VID">38561</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69460)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38561)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 83:2 or 1772:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The amours of Bonne Sforza, queen of Polonia.</title>
+                  <title>Les amours de Bonne Sforza, reigne de Pologne. English.</title>
+                  <author>Belon, P. (Peter)</author>
+               </titleStmt>
+               <extent>[12], 155, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M. for R. Bently in Covent-Garden,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation of: Les amours de Bonne Sforza, reigne de Pologne.</note>
+                  <note>Dedication signed: P.B., i.e. Peter Bellon.</note>
+                  <note>Identified as Wing B1849 on reel 83:2.</note>
+                  <note>Reproductions of the originals in the British Library (reel 83:2) and the Harvard University Library (reel 1772:11).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bona, --  Queen, consort of Sigismund I, King of Poland, 1494-1557 --  Fiction --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38561:1"/>
+            <pb facs="tcp:38561:1"/>
+            <p>THE AMOURS OF <hi>Bonne Sforza,</hi> QUEEN OF <hi>Polonia.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. M.</hi> for <hi>R. Bently</hi> in <hi>Covent-Garden.</hi> 1684.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:38561:2"/>
+            <pb facs="tcp:38561:2"/>
+            <head>TO THE Moſt Accompliſh't Lady, MADAM <hi>Mary-Elizabeth Manly.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>THis Title does ſo juſtly ſpeak your Perfections in the great, that it may eaſe me of the Modiſh Labour
+<pb facs="tcp:38561:3"/> of retailing them in this Epiſtle, &amp; you of the trou<g ref="char:EOLhyphen"/>ble of reading the unea<g ref="char:EOLhyphen"/>ſy repetitions of theſe Elo<g ref="char:EOLhyphen"/>gyes (ſo nautious to gene<g ref="char:EOLhyphen"/>rous minds, though never ſo deſervedly expreſſed) which you daily receive from all parts. You, <hi>Ma<g ref="char:EOLhyphen"/>dam,</hi> who are ſo remark<g ref="char:EOLhyphen"/>ably known by your own Merits, that it is the ſame to dedicate to you, as to ſay, to the moſt vertuouſly accompliſhed Lady in the World. And though I
+<pb facs="tcp:38561:3"/> am full of confidence, that if this wanton Queen, whoſe ſtory I humbly pre<g ref="char:EOLhyphen"/>ſent to you, were ever to have been reclaimed, it muſt have been through the benign'd influence of ſo examplary a Virgin as yours, I have taken the boldneſs to recommend this little Peace, not ſo much to your protection, as to the judicial cenſure of ſo abſolute a Miſtris of Languages, as you are <hi>Madam,</hi> in hopes that you
+<pb facs="tcp:38561:4"/> will be a Judge as favou<g ref="char:EOLhyphen"/>rable, as you are decerning, in the endeavours of</p>
+            <closer>
+               <signed>
+                  <hi>Madam, Your moſt Humble Servant, <hi>P. B.</hi>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:38561:4"/>
+            <head>Advice to the READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Think that a Word of Advice concerning this Little Book, will not be altogether uſeleſs. There may be divers Perſons, who not very learned in the Amorous Chroni<g ref="char:EOLhyphen"/>cles of Princes, would be ready to condemn that Liberty which I take of making the Gallant Hiſtory of a Queen; but the Publick may be informed, that She of whom I ſpeak, has been accord<g ref="char:EOLhyphen"/>ing to the moſt ſincere Hiſtorians, one of the Princes in the World, that has moſt cauſed her ſelf to be ſpoken of, on the Account of Gallantiſing. And that towards the latter end of her dayes, having retired her ſelf in her Dutchy of <hi>Barr,</hi> ſcituated in the
+<pb facs="tcp:38561:5"/> Kingdom of <hi>Naples,</hi> She died there, in the Armes of <hi>Pappacoda</hi> her Lover, That the Laſt ſigh ſhe ſhould ſend forth, might be a ſigh of Love.</p>
+            <p>It is eaſy to Judge from thoſe faithful ſtrokes of the Hyſtorian, if that the Adventures which I relate of this Princeſs are unjuſt, and whether it be Impoſition to give her two or three Lovers, who were much more Worthy than her <hi>Pappacoda.</hi> As to what concernes the <hi>Biſhop,</hi> I confeſs that there might be ſomething of my own in thoſe Incidents which I beſtow on him. But beſides that from all Ages, Perſons of that Character have paſſed for the Children of <hi>Adam</hi> as well as others; We ſee by a great number of examples, that in this Age, they are not over much reformed, and that men lay down their Humane frailtyes but with their Lives.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:38561:5"/>
+            <head>A Catalogue of ſome No<g ref="char:EOLhyphen"/>vels, Printed for <hi>R. Bentley</hi> and <hi>M. Magnes.</hi>
+            </head>
+            <list>
+               <item>1. <hi>ZElinda</hi> a famed <hi>Romance.</hi>
+               </item>
+               <item>2. <hi>Happy Slave,</hi> in three Parts.</item>
+               <item>3. Count <hi>Brion.</hi>
+               </item>
+               <item>4. Count <hi>Gabales.</hi>
+               </item>
+               <item>5. <hi>Halige,</hi> or the <hi>Amours of the King</hi> of <hi>Tamaran.</hi>
+               </item>
+               <item>6. <hi>Mad. Laviler</hi> and the <hi>King</hi> of <hi>France.</hi>
+               </item>
+               <item>7. <hi>Mad.</hi> and the <hi>Duke</hi> of <hi>Guiſe.</hi>
+               </item>
+               <item>8. <hi>Mad. Colona's</hi> Memories.</item>
+               <item>9. Queen of <hi>Majork,</hi> two Parts.</item>
+               <item>10. <hi>Don Lebastian</hi> King of <hi>Pour<g ref="char:EOLhyphen"/>tingal.</hi>
+               </item>
+               <item>11. <hi>Heroine Maſquiter.</hi>
+               </item>
+               <item>12. Princeſs of <hi>Cleves.</hi>
+               </item>
+               <item>13. <hi>Obliging Miſtris.</hi>
+               </item>
+               <pb facs="tcp:38561:6"/>
+               <item>14. <hi>Fatal Prudence.</hi>
+               </item>
+               <item>15. <hi>Princeſs</hi> of <hi>Fezz.</hi>
+               </item>
+               <item>16. <hi>Diſorders of Love.</hi>
+               </item>
+               <item>17. <hi>Triumph of Love.</hi>
+               </item>
+               <item>18. <hi>Victorious Lovers.</hi>
+               </item>
+               <item>19. <hi>Allmanzar.</hi> and <hi>Allmanzaid.</hi>
+               </item>
+               <item>20. <hi>Earl</hi> of <hi>Eſſex</hi> and <hi>Queen Eli<g ref="char:EOLhyphen"/>zabeth.</hi>
+               </item>
+               <item>21. <hi>Neopolitan,</hi> or the <hi>Defender</hi> of his <hi>Miſtris.</hi>
+               </item>
+               <item>22. <hi>Nicoratis.</hi>
+               </item>
+               <item>23. <hi>Amorous Abbeſs.</hi>
+               </item>
+               <item>24. <hi>Homais Queen</hi> of <hi>Tunis.</hi>
+               </item>
+               <item>25. <hi>Pilgrim</hi> in two Parts.</item>
+               <item>26. <hi>Meronious, Prince</hi> of the Blood <hi>Royal</hi> of <hi>France.</hi>
+               </item>
+               <item>28. <hi>Life</hi> of the <hi>Duke Guiſe.</hi>
+               </item>
+               <item>29. <hi>Extravagant Poet.</hi>
+               </item>
+               <item>30. <hi>Memoiers Gallant.</hi>
+               </item>
+               <item>31. <hi>Inſtruction for a Young Noble Man.</hi>
+               </item>
+            </list>
+            <p>Books of more ſerious matters.</p>
+            <p>The Moral <hi>Eſaies</hi> in four Vol<g ref="char:EOLhyphen"/>lumes.</p>
+            <list>
+               <item>
+                  <hi>Humane Miſery.</hi>
+               </item>
+               <pb facs="tcp:38561:6"/>
+               <item>
+                  <hi>Vanity</hi> of <hi>Honour, Wealth</hi> and <hi>Pleaſure.</hi>
+               </item>
+               <item>
+                  <hi>Plutoes Apology</hi> of <hi>Socrates.</hi>
+               </item>
+               <item>
+                  <hi>Natural Hiſtory</hi> of the <hi>Paſſions.</hi>
+               </item>
+               <item>Biſhop <hi>Andrews</hi> Devotions.</item>
+               <item>
+                  <hi>Vanity</hi> of <hi>Arts</hi> and <hi>Sciences.</hi>
+               </item>
+               <item>The <hi>Officers</hi> of the Mouth.</item>
+               <item>
+                  <hi>Kalandarium Hortencey.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:38561:7"/>
+            <pb n="1" facs="tcp:38561:7"/>
+            <head>THE AMOURS OF <hi>Bonne Sforza,</hi> QUEEN of <hi>POLONIA.</hi>
+            </head>
+            <p>AFter the Death of Queen <hi>Barbara,</hi> the General Diet of <hi>Poland</hi> having Repreſented unto <hi>Sigiſmondus</hi> their King, that the Good of the State required he ſhould Marry again; He took to ſecond Wife, the Princeſs <hi>Bonna,</hi> Daughter unto <hi>John Galeas,</hi> Duke of <hi>Milan.</hi>
+            </p>
+            <p>That Princeſs, whoſe Beauty had made ſuch a noiſe in the World, was Received by the <hi>Po<g ref="char:EOLhyphen"/>landers</hi> with ſuch Magnificence and
+<pb n="2" facs="tcp:38561:8"/> Acclamations, as ſpread themſelves into the moſt remote parts of that Kingdom. They were ſuch Feaſtings and Rejoycings, as la<g ref="char:EOLhyphen"/>ſted ſo much the more, by reaſon that the Queen did ſeem to take Great Delight in them, and that ſhe was the firſt alſo, in inventing very Gallant Ones.</p>
+            <p>That Court, beſides the Stran<g ref="char:EOLhyphen"/>gers that were there at ſuch a time, was then Compoſed of the Gallan<g ref="char:EOLhyphen"/>teſt Perſons in <hi>Europe,</hi> who in ſuch an Occaſion did all endea<g ref="char:EOLhyphen"/>vour to outvye one another, not only in Gallantry and Activity, but in ſuch a Magnificence alſo, with ſo Prodigious Expence, that the King was Obliged to put a ſtop to their Profuſions, in ſetting of Limits to theſe Feſtivals.</p>
+            <p>The Queen, who came from ſo Gallant a Country as is <hi>Italy,</hi> had heard talk of <hi>Poland,</hi> as of a Bar<g ref="char:EOLhyphen"/>barous Place. At leaſt ſhe had ſo little expected to ſee, what ſhe
+<pb n="3" facs="tcp:38561:8"/> did ſee there, that ſhe was whol<g ref="char:EOLhyphen"/>ly ſurpriz'd, and did no longer re<g ref="char:EOLhyphen"/>gret ſo much, that which ſhe had lately left.</p>
+            <p>She was Naturally of a very Gallant Humour, and ſhe was Charm'd with the Pleaſure of ſee<g ref="char:EOLhyphen"/>ing the Effects, which her Beauty did produce in all hearts. Nei<g ref="char:EOLhyphen"/>ther was ſhe much inſenſible for her part; and having found in the Court ſuch <hi>Cavaliers,</hi> as well de<g ref="char:EOLhyphen"/>ſerved to be conſidered, ſhe did not ſcruple to mix ſometimes ſome Sighs, with thoſe Adorations that others had for Her.</p>
+            <p>As there was nothing more Beautiful than her Perſon and that She contributed alſo by all her Charming wayes, in the gain<g ref="char:EOLhyphen"/>ing of the Hearts, as well as good Wiſhes, of all Perſons, ſhe pre<g ref="char:EOLhyphen"/>ſently had as many Adorers as Sub<g ref="char:EOLhyphen"/>jects. Amongſt which ſhe would make Choice of thoſe that were moſt to her mind, which ſhe call'd
+<pb n="4" facs="tcp:38561:9"/> her <hi>Select,</hi> and upon theſe there was beſtowed ſometimes a <hi>Ring,</hi> ſometimes a <hi>Scarfe,</hi> a <hi>Bracelet,</hi> a <hi>Picture,</hi> other <hi>Preſents</hi> and <hi>Favors,</hi> which were rendered more Con<g ref="char:EOLhyphen"/>ſiderable by the Manner and Time of giving them, than all that can be reckoned moſt ſenſibly moving in Love.</p>
+            <p>They were not only young <hi>Ca<g ref="char:EOLhyphen"/>valiers</hi> that felt the Effects of this Charming Poyſon; But the Mini<g ref="char:EOLhyphen"/>ſters of State alſo, of all Ages, and even thoſe of the Gown, that had the greateſt Eſteem, and the moſt Power in the State. She knew how to entertain them all, with thoſe little Favours, each in ſuch a certain Confidence of his own good Fortune, that there was not one amongſt them, but flattered himſelf of having the beſt ſhare in her Favour. And in that Opinion, her Cyphers and Colours were ſeen in all places; every day did afford ſome <hi>Tournament,</hi> or <hi>Feſ<g ref="char:EOLhyphen"/>tival</hi>
+               <pb n="5" facs="tcp:38561:9"/> for Love of her; beſides <hi>Mo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tos, Verſes,</hi> and a thouſand other <hi>Gallantries,</hi> which were Addreſ<g ref="char:EOLhyphen"/>ſed to her alone.</p>
+            <p>
+               <hi>Sigiſmond</hi> was a Prince very clear-ſighted; He was paſt fifty: An Age fit to entertain Jealouſie, eſpecial<g ref="char:EOLhyphen"/>ly, with a young Wife of her hu<g ref="char:EOLhyphen"/>mour, and ſo Beautiful as was the Queen: But ſhe had the Art of Diſſipating all thoſe ſhadows her ſelf, making the King privy unto the Folly of all her Lovers, of which ſhe made Sport with him. This kind of pretended Sincerity, would quiet that good Prince's mind; and judging that it was Reaſonable he ſhould have ſome Complaiſance for a young Princeſs, who could not ſo readily lay aſide the Cuſtomes of her own Country, he permitted her to live after her own manner.</p>
+            <p>Thus the Number of the <hi>Select</hi> did daily encreaſe: There were but three Ladies only, that were not
+<pb n="6" facs="tcp:38561:10"/> well pleaſed with that Princeſſes Actions, above all the Fair ones, which ſhe did not Love. They were almoſt all forſaken by their Lovers. The Queen could not en<g ref="char:EOLhyphen"/>dure, that any thing ſhould be done for Love of them; and whoever did attempt it, was preſently out of Favour.</p>
+            <p>The Dutcheſs of <hi>Oſtrog</hi> was the only Perſon, that did ſomewhat up<g ref="char:EOLhyphen"/>hold the Honour of the Ladies of the Country. She was a perfect Beauty; who did bear one of the firſt Ranks at Court; and the Per<g ref="char:EOLhyphen"/>ſon who at the very firſt, had gi<g ref="char:EOLhyphen"/>ven the moſt of Jealouſie unto the Queen: She had not all that ſprite<g ref="char:EOLhyphen"/>ly Ayr, nor that Pleaſantneſs, that the Beautifull brown Ladies have, as had this Charming Prin<g ref="char:EOLhyphen"/>ceſs. But ſhe was a Woman of a great Preſence, of a Pleaſant Aſ<g ref="char:EOLhyphen"/>pect, and of an Excellent Stature; with theſe might be added, her Fair Complexion, her Eyes and
+<pb n="7" facs="tcp:38561:10"/> all the Features of her Face, with her Hairs of a Dazling Brightneſs. She was a Lover of Pleaſures and of Gallantryes, and yet for a long time ſhe did paſs for a Diſcreet Woman; which is the Art that Women of Wit uſe.</p>
+            <p>It was at this Dutcheſs's, that the moſt Rational Perſons of the Kingdom did daily reſort; and that was call'd, the Little Court; but ſuch a little Court, as fre<g ref="char:EOLhyphen"/>quently did give the firſt Motion unto all that was acted of moſt Gallant in the Greateſt. The <hi>Count</hi> of <hi>Tarnaw,</hi> was as the Head of it. He was the beſt ſhaped Lord of the Kingdom, who had the greateſt Wit, Brave, Gallant, Generous, Beloved of the King, and of all the Court.</p>
+            <p>The firſt Spight which the Queen had a mind to ſhew the Dutcheſs of <hi>Oſtrog,</hi> was to deprive her of that Lord, who was worth
+<pb n="8" facs="tcp:38561:11"/> divers others of that Court. And in ſo doing, ſhe did not only ſa<g ref="char:EOLhyphen"/>tisfie that Womaniſh Vanity of Carrying it above all others, but ſhe follow'd alſo the Inclinations of her heart; for <hi>Tarnaw</hi> was one of the moſt amiable men of the World. He was intimate Friend unto the Duke of <hi>Ostrog,</hi> and it was thought that he might hold ſome place near the fair Dutcheſs alſo, but not peradventure that went ſo far as to Gallantiſe. At leaſt that was ſo well manag'd, that the Publick, who is but little indulgent on ſuch kind of things, did more favour the Dutcheſs, than it was wont to do in regard of other Ladies, for till then ſhe had not been ſuſpected. But the Queen, who was yet full of all the Max<g ref="char:EOLhyphen"/>imes of her own Country, and that was not of opinion, That a man of Wit, and a Beautiful wo<g ref="char:EOLhyphen"/>man, could long ſee one another, without Conſequences, did not
+<pb n="9" facs="tcp:38561:11"/> doubt but that <hi>Tarnaw</hi> was with the Dutcheſs in Title of Gallant af<g ref="char:EOLhyphen"/>ter the higheſt manner.</p>
+            <p>She put in uſe all her Charmes, to make aſſault in point of Beauty, with that ſtately Lady. There was nothing but Kindneſſes and Complaiſances for <hi>Tarnaw.</hi> Pre<g ref="char:EOLhyphen"/>ſents, and ſuch wayes, as were yet more ingaging than the Pre<g ref="char:EOLhyphen"/>ſents themſelves, that would ſpeak much, but all to no purpoſe; for no hearing nor ſeeing could be procured, <hi>Tarnaw</hi> did alwayes ſhew an unparallel'd Conſtancy; for the Dutcheſs's Party.</p>
+            <p>Not but that this <hi>Cavalier,</hi> as well as the reſt, had found that there was nothing more Charming than the Queen; and that if he had followed the Tendency of his own Heart, he had ſubmitted unto the neceſſity, of not caſting one's Eyes on that Princeſs without adoring of her. But that Croud of A<g ref="char:EOLhyphen"/>dorers which he did continually
+<pb n="10" facs="tcp:38561:12"/> behold about her, and which ſhe received, did take him off. In this he thought it a point of Honour, not to do as the reſt did, but to remain inſeparably ty<g ref="char:EOLhyphen"/>ed unto the Dutcheſs. The Queen, who was not accuſtomed to ſo much Reſiſtance, vexed at a Pro<g ref="char:EOLhyphen"/>ceeding which ſhe looked upon as an Injury offered to her Beauty by the <hi>Count;</hi> did in a moment, paſs from all theſe Sweets unto mor<g ref="char:EOLhyphen"/>tal Hatred; and did ſhew nothing but Contempt for him. But that was not yet ſufficient. Womens minds run more naturally unto Re<g ref="char:EOLhyphen"/>venge; ſhe was ſtudying of one, which ſhould Content her. For ſhe could give it the ſatisfaction of Triumphing over her Rival; and of ruining the <hi>Count;</hi> which was by cauſing her ſelf to be belov'd by the Duke of <hi>Ostrog.</hi>
+            </p>
+            <p>The Duke was a man of Wit, who through the Character of Ge<g ref="char:EOLhyphen"/>neral which he had, as well as by his
+<pb n="11" facs="tcp:38561:12"/> Birth, did hold one of the firſt Ranks in the Kingdom. He was very much conſider'd by the King, and he did underſtand very well his Duty; but he had Eyes and an Heart, that were made juſt like o<g ref="char:EOLhyphen"/>other mens. And what cannot a Beautiful Princeſs do, that employes all her Charms to corrupt the Fide<g ref="char:EOLhyphen"/>lity of a Gallant man? The Duke of <hi>Ostrog</hi> ſurrender'd himſelf, and ſo ſoon as he was permitted to be heard, he offer'd Vows and Ho<g ref="char:EOLhyphen"/>mages, Life and Fortune, and all that he could offer. But as he had more meaſures to obſerve than the reſt of the Selected, he did more Cloſely manage himſelf, and would not allow, that his Paſſion ſhould have any other Witneſſes than the Queen and his own Heart.</p>
+            <p>That Princeſs, who had her De<g ref="char:EOLhyphen"/>ſigns, and who deſired no further of Love, then the Noiſe and Ru<g ref="char:EOLunhyphen"/>mour of it, did not well like the
+<pb n="12" facs="tcp:38561:13"/> prudence of her Gallant; It avail<g ref="char:EOLhyphen"/>ed nothing to be belov'd by the Duke, except the Dutcheſs knew of it. She did all that ſhe could to let her know it; which would ſometimes put the diſcreet Huſ<g ref="char:EOLhyphen"/>band into deſpair. And there were ſome moments, in which he would repent of having engaged himſelf ſo far. And if it were with Love as with other things, that one might rid one ſelf of it at pleaſure, he had peradventure renounced unto that which he had for the moſt-Charming Princeſs of the world; but the moſt Dan<g ref="char:EOLhyphen"/>gerous alſo, and the moſt fit to diſturb a good Family.</p>
+            <p>It was not that he lov'd his Wife more than Courtiers uſual<g ref="char:EOLhyphen"/>ly do, but he had no mind to ſet her ſo ill an Example. He knew that ſhe had very good Arms, wherewith to revenge her ſelf of his Perfidiouſneſs; and the leſs faithfull of all Husbands, takes no
+<pb n="13" facs="tcp:38561:13"/> delight in being deceived by his Wife.</p>
+            <p>The Dutcheſs of <hi>Oſtrog</hi> was not blind. She was one of the firſt that perceived her Husbands ill wayes; and that div'd into the Queens deſigns: But ſhe did but laugh at it, with the Count <hi>Tar<g ref="char:EOLhyphen"/>naw.</hi> The Machines of that Prin<g ref="char:EOLhyphen"/>ceſs, having not had a good Effect that way, they had no better a ſucceſs neither on the Dukes Part. It was in vain that ſhe attempted to make him Jealous of the <hi>Count</hi> with his wife: He had a great opinion of the Dutcheſs's Virtue. And he believ'd <hi>Tarnaw</hi> to be ſo much his Friend, and ſo honeſt a Man, that he would have thought he had done them a piece of In<g ref="char:EOLhyphen"/>iuſtice, in barely ſuſpecting them of Perfidiouſneſs.</p>
+            <p>The Queens Spight and Jealou<g ref="char:EOLhyphen"/>ſy did ſtill increaſe, through all thoſe fruitleſs Endeavours. But the Ha<g ref="char:EOLhyphen"/>tred which ſhe had for the Count
+<pb n="14" facs="tcp:38561:14"/> could not laſt ſo long; becauſe that it was Affected only. She was during ſome dayes very much out of humour; and at laſt, to pleaſe her ſelf, ſhe muſt come to a new On<g ref="char:EOLhyphen"/>ſet, on that Heart that was inſen<g ref="char:EOLhyphen"/>ſible, but only to her. She thought it neceſſary to bring her Rival near unto her own Perſon again, and to ſhew her more Kindneſs than ſhe had done.</p>
+            <p>The Dutcheſs, being Taken with that Charming Bait, of being well at Court again, perceiv'd not the Poyſon which lay under it. There was nothing but continual Feaſtings, and parties of Divertiſe<g ref="char:EOLhyphen"/>ments, where <hi>Tarnaw</hi> was ſure to be one.</p>
+            <p>This Cavalier did begin to per<g ref="char:EOLhyphen"/>ceive, that men were not always the ſame; and that it was very dan<g ref="char:EOLhyphen"/>gerous to be too often a Spectator of thoſe Charms, for which one may have had ſome Diſpoſition of being inflamed. He did find the
+<pb n="15" facs="tcp:38561:14"/> Queen more Beautiful than ever, and he was full of ſuch Cares and Diligence in ſerving and following her, as he had not had before. The Dutcheſs took notice of it; and ſhe would tell it the <hi>Count.</hi> She told him by the bye, that ſhe could perceive ſome change in her Conduct; but far from making uſe of any Means unworthy of her heart, whereby to oppoſe it, through an height of Ambition, ſhe did contribute unto ſome pretty Entertainments, which ſhe might at leaſt have interrupted by her Pre<g ref="char:EOLhyphen"/>ſence.</p>
+            <p>As for the Duke, he was not ſo eaſy to be handled; he was the moſt impatient and the moſt Jea<g ref="char:EOLhyphen"/>lous of all Lovers. He was pre<g ref="char:EOLhyphen"/>ſently ſtrangely Allarum'd at the <hi>Counts</hi> freſh Purſuites. He knew his Merit, and of all his Rivals he could not ſee any ſo much to be fear'd as that was. He ima<g ref="char:EOLhyphen"/>gined that his own Paſſion was
+<pb n="16" facs="tcp:38561:15"/> very ſecret, and that there were no danger of ſpeaking of the Queen to the <hi>Count.</hi>
+            </p>
+            <p>He one day at the Running of the Ring, took occaſion ſo to do. He was in courſe with his Friend, drawing near him, Take heed to your ſelf, ſaid he, lowly, for there are great Deſigns on your heart. I fear nothing, anſwer'd the <hi>Count,</hi> ſmilingly; and it has been long ſince of proof againſt the moſt dangerous Aſſaults. You know not, reply'd the Duke, what Ene<g ref="char:EOLhyphen"/>mies you have to do with; they are two delicate Eyes, continu'd he, which command here; and that have obſerv'd you ever ſince your coming in. It is very difficult to re<g ref="char:EOLhyphen"/>ſiſt them. While he was ſpeaking to him in this manner, his Eyes were fixed upon him to endeavour to diſcover by the change of his Face, what paſs'd in his Heart. And per<g ref="char:EOLhyphen"/>ceiving ſome Alteration of his uſu<g ref="char:EOLhyphen"/>al Colour, You bluſh, added he;
+<pb n="17" facs="tcp:38561:15"/> then you know what I aim at: You are Catch'd already; and peradventure, the Happieſt of all men. Say rather, replyed the <hi>Count,</hi> that I am the moſt Un<g ref="char:EOLhyphen"/>grateful of all men, after the Care that is taken, to ſhew me the good Will that ſome have towards me; but I know my Duty, and I will do it. Very weak Reaſons <hi>Count,</hi> replyed <hi>Ostrog,</hi> thoſe that Duty produces againſt Love, and you are not Ungrateful, ſince you ac<g ref="char:EOLhyphen"/>knowledg your Ingratitude. Con<g ref="char:EOLhyphen"/>feſs the truth to me, continu'd he without giving of him any time to anſwer: You would fain make uſe of your Diſcretion with me, but yet I know that you an<g ref="char:EOLhyphen"/>ſwer very well all thoſe favour<g ref="char:EOLhyphen"/>able Intentions, which are had in your behalf. I anſwer them ſo ill, reply'd <hi>Tarnaw</hi> (who would put an end to this Converſation,) that never did man deſerve Death ſo much as I do.</p>
+            <pb n="18" facs="tcp:38561:16"/>
+            <p>In all that Diſcourſe, which made an end of confounding the Poor Duke, there was not only ſome Vanity on the <hi>Counts</hi> ſide, but there was Malice alſo. He was not ig<g ref="char:EOLhyphen"/>norant of his friends Love towards the Queen; and he deſign'd to puniſh him for his not confiding in him, in concealing it from him.</p>
+            <p>The Sport ended, <hi>Tarnaw</hi> had the Prize, which conſiſted in a Picture of the Queen, which ſhe was to give her ſelf. As he drew near her to receive it, ſhe told him ſoftly, That long ſince he might have had greater Advan<g ref="char:EOLhyphen"/>tages, if he could have told how to have made the beſt advantage of his good Fortune. The <hi>Count</hi> ſurpriz'd at thoſe words, whoſe fence he underſtood very well, did anſwer in ſome kind of Diſ<g ref="char:EOLhyphen"/>order, That there could be no Ad<g ref="char:EOLhyphen"/>vantages that he could prefer un<g ref="char:EOLhyphen"/>to the Honour of ſerving the grea<g ref="char:EOLhyphen"/>teſt Princeſs on earth. You ſhould,
+<pb n="19" facs="tcp:38561:16"/> reply'd the Queen, ſerve Perſons after their own manner, and then you might ſucceed But, con<g ref="char:EOLhyphen"/>tinued ſhe, (turning her head, to obſerve if any body did hearken,) this is not a buſineſs to diſcourſe of before ſo many Perſons. Come this Evening at <hi>nine,</hi> on the <hi>Ter<g ref="char:EOLhyphen"/>raſſe</hi> which anſwers to my Clo<g ref="char:EOLhyphen"/>ſet, and you ſhall know what I have to ſay to you on that ac<g ref="char:EOLhyphen"/>count.</p>
+            <p>After this ſhe ſuddenly turn'd her ſelf towards the King, who was ſpeaking to ſome Ladies, and gave him her hand, to go a walk<g ref="char:EOLhyphen"/>ing.</p>
+            <p>The <hi>Counts</hi> mind was ſo fill'd with theſe laſt words, that he thought it fit to retire home, to think there on a buſineſs as im<g ref="char:EOLhyphen"/>portant in its Conſequences, as any that ever had yet happened to him. He did perceive how far that Ren<g ref="char:EOLhyphen"/>dezvouz would go, which was to have him ſpeak his whole Thoughts,
+<pb n="20" facs="tcp:38561:17"/> and the Danger which he did run of a total Rout. He was invited unto it after a manner that could not be reſiſted; his Honour as well as his Heart, did find a thou<g ref="char:EOLhyphen"/>ſand Charmes in it. The Triumph was Illuſtrious; and there was no Life, which he did not think well employed, in expoſing it on ſo Glorious, and ſo Charming a Sub<g ref="char:EOLhyphen"/>ject as that was</p>
+            <p>With theſe or ſuch like Thoughts did he entertain himſelf, till the hour of Aſſignation; which was no ſooner come, but that he inceſ<g ref="char:EOLhyphen"/>ſantly rendered himſelf on the <hi>Ter<g ref="char:EOLhyphen"/>raſs.</hi> There he found the Queen expecting of him already, who receiving him with an Ayr full of Sweetneſs, You ſee, ſaid ſhe, <hi>Count,</hi> that this is but on your account. Here I meet you ſingly, only one Woman with me, that I confide in. The King is at play, and we ſhall have ſome Time to diſcourſe here of our buſineſs. In the Confuſion that
+<pb n="21" facs="tcp:38561:17"/> the Count at firſt was, at the ſight of that beauteous Princeſs, he wanted a Voice to anſwer with; which is an ordinary Effect of Love. The Queen took notice of it with Delight, &amp; leaning againſt the Railes which overlook'd the Garden, ſhe pur<g ref="char:EOLhyphen"/>poſely gave him time to recollect himſelf. But at laſt perceiving that he did not yet begin to ſay a<g ref="char:EOLhyphen"/>ny thing, the Impatiency ſhe was in to continue her Deſign, made her to paſs over ſome certain Laws of Manners, unto which Perſons of that Rank and Character rarely confine themſelues, when it is Love that guides them. Well <hi>Tarnaw,</hi> what, muſt I be the firſt to ſpeak? What think you of the Sentiments that are had for you? I know my ſelf Madam, (he reply'd, with a reſpectuous Gravity) that lit<g ref="char:EOLhyphen"/>tle Merit that I find in me will not permit me — All is per<g ref="char:EOLhyphen"/>mitted you, ſaid the Queen inter<g ref="char:EOLhyphen"/>rupting him, and you but too well
+<pb n="22" facs="tcp:38561:18"/> know your own Worth. You have done all that you could, to in<g ref="char:EOLhyphen"/>ſpire divers things to your advan<g ref="char:EOLhyphen"/>tage into Perſons, and perhaps that you have not ſucceeded ill; but when you had perform'd the moſt difficult part, you ſhould have gone on. You ſhould ſpeak, and not pleaſe your ſelf in ſuffering ſuch Pains, as peradventure o<g ref="char:EOLhyphen"/>thers ſhare in with you. In a word <hi>Count,</hi> added ſhe, I know that you love me; I know it; your Eyes, your Actions, and even your affected Indifferences; all has told it me. Your Heart is mine, permit it to act without Conſtraint, and lay aſide all theſe Thoughts which ſeem but to render you the more miſerable. <hi>Tarnaw,</hi> unto whom thoſe very words alone could have inſpired Love, had he not been already in Love with that Charming Princeſs, replys, What pleaſure take you Madam, ſaid he ſighing, in rendering me the moſt
+<pb n="23" facs="tcp:38561:18"/> Criminal Perſon in the World? Is it a Crime to Love me, an<g ref="char:EOLhyphen"/>ſwered ſhe? Yes Madam, replyed that Lover, and the greateſt that ever I committed in all my Life, ſo to dare to lift up my thoughts unto my Soveraign; But though I ſhould expiate it with my Death, I find that I could not repent it; that it is my Fate would have it ſo, together with your Charms, againſt which there is no Reſiſ<g ref="char:EOLhyphen"/>tance.</p>
+            <p>The Queen could not con<g ref="char:EOLhyphen"/>tain the Joy which ſhe had up<g ref="char:EOLhyphen"/>on this Declaration ſo full of Tran<g ref="char:EOLhyphen"/>ſports; Love me; ſaid ſhe to him, with a Charming Smile; if it be a Crime, Il'e bear the half of it, and I ſhall endeavour to render it ſo mild to you, that you ſhall have no cauſe of Complaint. In ending theſe words ſhe gave him her hand, which that Lover took trembling; But which he Kiſs'd with ſuch a Paſſionate Ayr, as any Lover could do.</p>
+            <pb n="24" facs="tcp:38561:19"/>
+            <p>Some moments of Silence, which paſs'd afterwards between them, were no leſs tender and paſſionate than their Diſcourſes but the Queen more accuſtomed than the <hi>Count,</hi> unto thoſe Extaſies of Love, be<g ref="char:EOLhyphen"/>ginning to ſmile in a kind of Ma<g ref="char:EOLhyphen"/>licious Return, But what will be<g ref="char:EOLhyphen"/>come of the Dutcheſs of <hi>Oſtrog,</hi> ſaid ſhe, when ſhe will know the Wrong I do her, in robbing of her of ſuch a Heart as yours? She will never pardon it me in all her life time. The Dutcheſs of <hi>Ostrog</hi> Madam, replyed the <hi>Count,</hi> does not take ſo much the intereſt of my Heart; but though ſhe ſhould, it would be a Sacrifice which I ſhould offer you without any great Repug<g ref="char:EOLhyphen"/>nancy. It may be, Madam, added he ſmilingly in his turn, that you would have more in Sacrificing to me the Duke her Husband. If that the Duke, replyed ſhe, is ca<g ref="char:EOLhyphen"/>pable of giving you any Diſtur<g ref="char:EOLhyphen"/>bance, you will ſoon be delivered
+<pb n="25" facs="tcp:38561:19"/> of it. I conſent ſaid She further, that you regulate your ſelf to<g ref="char:EOLhyphen"/>wards the Dutcheſs after the man<g ref="char:EOLhyphen"/>ner that I ſhall treat her Husband. I will never ſee her more, reply'd the <hi>Count;</hi> and I, ſaid the Queen, will rid my ſelf of the Duke to morrow.</p>
+            <p>Theſe Proteſtations which ſet<g ref="char:EOLhyphen"/>led the hearts of theſe two Lovers, in reſpect of thoſe Rivals, which each of them had to fear, did con<g ref="char:EOLhyphen"/>clude by ſuch tenderneſſes, which the Queen let looſe, as quite made an end of the formerly inſenſible <hi>Tarnaw.</hi>
+            </p>
+            <p>Thoſe favours which come from Perſons of that Rank have this ad<g ref="char:EOLhyphen"/>vantage, that all charme even to the leaſt Trifles; a Look, a Smile, and Hand given in ſeaſon, a Geſt<g ref="char:EOLhyphen"/>ure, the leaſt Tenderneſs, Tranſ<g ref="char:EOLhyphen"/>ports and Dazles. <hi>Tarnaw</hi> ſcarce knew what was become of him<g ref="char:EOLhyphen"/>ſelf, and did anſwer but by halves, and confuſedly unto ſome Amo<g ref="char:EOLhyphen"/>rous
+<pb n="26" facs="tcp:38561:20"/> Queſtions which the Queen made him; whether he would love her all his life time; and whether he was very well pleas'd with her; till that at laſt that Charming Prin<g ref="char:EOLhyphen"/>ceſs, who perceived him ſo tranſ<g ref="char:EOLhyphen"/>ported with Joy and Love, as that he ſeemed Inchanted, and to have but one moment of Life left, Let us go <hi>Tarnaw,</hi> ſaid She, let us go hence, for we might be here a lit<g ref="char:EOLhyphen"/>tle too long it may be. I think that for the firſt time, that you have ſeen me in private, you have very far advanced your affaires. The <hi>Count,</hi> who had been half the time kneeling before her, did riſe, and ſighing gave her his Hand to lead her; but perceiving that She deſign'd to return to the King, he intreated. Her to permit him to re<g ref="char:EOLhyphen"/>tire home, becauſe that he thought himſelf not ſtrong enough to con<g ref="char:EOLhyphen"/>ceal the Exceſs of his Joy, before ſuch Perſons as draw Conſequences of all things, as Courtiers uſe to
+<pb n="27" facs="tcp:38561:20"/> do. The Queen approv'd of this Gantleneſs, and told him. That to have ſo Prudent a Lover as he was, I was the way to make Love laſt a long time.</p>
+            <p>The night which follow'd that Entreview, was for the <hi>Count</hi> in<g ref="char:EOLhyphen"/>capable of yielding any Reſt. Not that the Remorſe which he ought to have, of the Crime which he committed againſt his King, or that the Fear of the dangers that he expoſed himſelf unto did di<g ref="char:EOLhyphen"/>ſturb him; Love had already got too high an hand over him, to af<g ref="char:EOLhyphen"/>ford the leaſt return imaginable unto Reaſon. It was the raptures of Joy, which a thouſand Charm<g ref="char:EOLhyphen"/>ing Ideas of thoſe render things which the Queen had had for him, &amp; which did ſtill promiſe him grea<g ref="char:EOLhyphen"/>ter favours. He ſlept not, yet the night did not ſeem the longer for that, on the contrary, he did make it laſt into the middle of the following day; ſo that it was already Dinner
+<pb n="28" facs="tcp:38561:21"/> time, when that a Servant came to give him notice of it, and at the ſame time to tell him, that the Queens Page waited to ſpeak with him. The Page was immediately brought into his Chamber, who preſented unto the <hi>Count</hi> a Packet from the Queen, in which there was a Scarf, and this Note.</p>
+            <p>
+               <q>I will not forgive it you, <hi>Count,</hi> if you have ſlep't one ſingle mo<g ref="char:EOLhyphen"/>ment this night; for Love would have treated you better than me; and you would not love me half ſo well as you ought to do, or that I would have you to do. I ſend you a <hi>Scarf</hi> againſt the Juſt<g ref="char:EOLhyphen"/>ing, which is to be perform'd next <hi>Thurſday.</hi> You ſhall take for your <hi>Motto</hi> theſe words.</q>
+            </p>
+            <p>
+               <q>Tanto piu alto, e Tanto piu ar<g ref="char:EOLhyphen"/>dore.</q>
+            </p>
+            <p>
+               <q>We go a Hunting, come you alſo; for I ſhould but ill divert my ſelf, if I ſhould not ſee you there.</q>
+            </p>
+            <pb n="29" facs="tcp:38561:21"/>
+            <p>While that the <hi>Count</hi> was thus buſied, the Duke of <hi>Oſtrog,</hi> who through the great Friendſhip that was between them was diſ<g ref="char:EOLhyphen"/>penced from Ceremonies, being come in, he perceived the Page, the Scarf, and Note, which the <hi>Count</hi> was reading with ſo great an Attention, that he was in the midſts of the Roome before he had perceiv'd it: The confuſion he was in, when he firſt perceiv'd him was great. The Duke asked him, whence came ſo fine a Preſent. It is without cauſe you make me this queſtion, reply'd the <hi>Count,</hi> (who would not mince the matter out of ſeaſon) you have ſeen the Queens Page, and you doubt not but that it is from her Liberality that this favour comes. I was af<g ref="char:EOLhyphen"/>fraid of deceiving my ſelf, reply'd the Duke, and did not think that an ungrateful Perſon, that deſerv'd death from Her, was worthy of ſo much favour. If all thoſe unto
+<pb n="30" facs="tcp:38561:22"/> whom She has made ſuch Preſents, reply'd <hi>Tarnaw,</hi> were guilty, you had been ſo long ſince. One muſt be born, reply'd the Duke, under as lucky a Planet as yours, to dare to adventure in a Careere, ſo full of pre<g ref="char:EOLhyphen"/>cipices as that is. It is the Danger, reply'd the <hi>Count,</hi> which affords the Pleaſure as well as the Glory of the undertakeing. Farewell, ſaid the Duke going, I wiſh that you may come out of it with the good For<g ref="char:EOLhyphen"/>tune which you deſerve. I ſhall take counſel upon that, replyed the <hi>Count,</hi> when the Enterpriſe is re<g ref="char:EOLhyphen"/>ſolv'd upon; but it ſhall be from the moſt happy that I ſhall take it.</p>
+            <p>The Duke being gone out in this manner, <hi>Tarnaw</hi> thought of the Anſwer he was to ſend to the Queen, which you may ſee here.</p>
+            <p>What hopes of ſleep, Madam, when you leave me in the Armes of a God, that does ſo little con<g ref="char:EOLhyphen"/>verſe with it; yet how reſtleſs
+<pb n="31" facs="tcp:38561:22"/> and troubleſome as he is to others, I can ſay, that he has treated me ſo well, that I ſhould wrongfully complain of him. He has done no<g ref="char:EOLhyphen"/>thing, but continually ſpake of you to me; He has repreſented you to my mind, with all thoſe Charms which render you adorable. There is no Joy equal to mine. Aid him, Madam, if it be poſſible, to redouble it; though he ſhould take away my Life, with my ſleep, I ſhould not complain. I have kiſs'd a thouſand times that curious Scarf. How great and glorious is my deſtiny; and with the eſteem of ſo Great and ſo Charming a Princeſs, how few mortals are ſo bleſs'd as is <hi>Tarnaw!</hi>
+            </p>
+            <p>He gave that Anſwer to the Page, and call'd to be dreſs'd. The Con<g ref="char:EOLhyphen"/>verſation which he had had with the Duke, came again into his mind; he was his Friend, and he pittied him; but that which troubled him moſt, was on the account of the
+<pb n="32" facs="tcp:38561:23"/> Dutcheſs. He could not think on her without Confuſion. She had always been the Secretary of his thoughts: They had rallyed the Queen a thouſand times together; he had boaſted of a Contempt for all that Princeſſes Bounties. Mean time he is gone; how many Re<g ref="char:EOLhyphen"/>proaches was his Weakneſs going to procure unto him? He reſolv'd not to ſee her more; in this he ſatisfied the Queens deſire, and at the ſame time did free himſelf from that thing, which caus'd him the moſt Trouble.</p>
+            <p>This being once concluded after this manner, he would no longer think on the Duke or Dutcheſs, to reliſh the full Joy of ſuch a fortune as his. He prepared himſelf to go to that hunting, and was there preſently after the Court.</p>
+            <p>The Queen had taken the Dut<g ref="char:EOLhyphen"/>cheſs of <hi>Oſtrog</hi> with her, and that night they were to lye in a houſe of Pleaſure, belonging to the Biſhop
+<pb n="33" facs="tcp:38561:23"/> or <hi>Cracovia,</hi> who was one of the bleſſed number of the Queens Se<g ref="char:EOLhyphen"/>lected.</p>
+            <p>The Duke had not follow'd the Court; in the Troubles, or rather Deſpairs he was in. He ſought af<g ref="char:EOLhyphen"/>ter nothing but Solitaryneſs: Yet after divers vexations of mind, on a thouſand different Reſolutions, on which his heart floted, being got on Horſe back, he came there to<g ref="char:EOLhyphen"/>wards night: But whereas every one was very buſy in thoſe Diver<g ref="char:EOLhyphen"/>tiſements, which the Biſhop had caus'd to be prepared, and that moreover this Prelate, the moſt troubleſome, and moſt aſſiduous of all the Election, under pretence of making the honours of the houſe, did not abandon one moment the Queen: The Duke, the unfortu<g ref="char:EOLhyphen"/>nate Duke, could not all that night find one occaſion to ſpeak unto her in private. And the Court withdrew betimes alſo, becauſe that the King had a mind
+<pb n="34" facs="tcp:38561:24"/> to hunt again the next day; when the Queen being fatigated with that daies ſport, diſpenc'd her ſelf from going.</p>
+            <p>Beſides the Fatigue, She had her private Reaſons alſo. And the King was no ſooner up, and got out of his Chamber, but ſending to ſeek after the Dutcheſs of <hi>Oſtrog,</hi> ſhe caus'd her to come to Bed to her, as ſhe us'd to do with her beſt Friends, to talk or laugh the reſt of the Morning. Do you not know, ſaid ſhe to her, what the Duke of <hi>Ostrog</hi> would have with me, who deſired laſt Night that he might have a quarter of an hours Audi<g ref="char:EOLhyphen"/>ence, on a buſineſs in which he ſayes his Life is concern'd? If it be not a Love concern, Madam, replyed the Dutcheſs ſmiling, I know not what it can be. A con<g ref="char:EOLhyphen"/>cern of Love; replyed the diſſem<g ref="char:EOLhyphen"/>bling <hi>Queen?</hi> If it concerns me, I aſſure you that you ſhall have the Pleaſure of it. I have long
+<pb n="35" facs="tcp:38561:24"/> known, <hi>Madam,</hi> replyed the <hi>Dutches,</hi> that he has the Honour of ſighing for you; but I forgive it him, for it is almoſt the infallible deſtiny of all thoſe, that have the honour of ap<g ref="char:EOLhyphen"/>proaching you. You are a Com<g ref="char:EOLhyphen"/>modious Wife, replyed the Queen; but I know not if you ſhould have as much Indulgency for an other than an Husband. Either Husband or Gallant, reply'd the <hi>Dutcheſs,</hi> when ever they leave me for ſo beauteous a Princeſs, I ſhall have nothing to ſay.</p>
+            <p>The Queen did not think the Dutcheſs very ſincere on that point, but ſhe had wherewith to put her ſuddenly to a Tryal: And return<g ref="char:EOLhyphen"/>ing to ſpeak of the Duke, She told her, that ſhe had ordered the Duke ſhould be told, that he might ſee her that morning, and that if ſhe would lye cloſe behind her, and promiſe not to diſcover her ſelf, She would give her the ſatisfacti<g ref="char:EOLhyphen"/>on of the whole Entertainment. The Dutcheſs, who would have
+<pb n="36" facs="tcp:38561:25"/> bought ſuch an Opportunity on much more difficult terms, than thoſe which the Queen propos'd, did eaſily agree unto it, and pro<g ref="char:EOLhyphen"/>mis'd her to obſerve all her Or<g ref="char:EOLhyphen"/>ders, with all her heart.</p>
+            <p>So that the houre being come, the Duke was admitted. He ap<g ref="char:EOLhyphen"/>pear'd with a pale, and macerated countenance, approaching the Bed, whoſe Curtains were but half drawn; and kneeling on one knee before the Queen, You ſee before you, Madam, ſaid he in a low and doleful voice, the moſt paſſi<g ref="char:EOLhyphen"/>onate of all mortals, but the moſt miſerable, and the moſt deſperate alſo; you ſhall ſee him for the laſt time, if you take no pity of him. Whence comes this deſpair, Duke, reply'd the Queen, of what do you complain? I know, continu'd that unfortunate Lover ſighing, that it is not for a Subiect to com<g ref="char:EOLhyphen"/>plain of his Queen. But if that the liberty which you have given
+<pb n="37" facs="tcp:38561:25"/> to my ſighs, may in ſome mea<g ref="char:EOLhyphen"/>ſure Authoriſe my complaints, cer<g ref="char:EOLhyphen"/>tainly it is in this occaſion, when betraying the hopes that your Eyes, and your too Charming Diſ<g ref="char:EOLhyphen"/>courſes for me, had caus'd my heart to receive, you give marks of your Tenderneſs unto a man, who cannot have deſerv'd them through a real Zeal. And who is that happy man? reply'd the Queen. It is not neceſſary, Madam, re<g ref="char:EOLhyphen"/>ply'd he, to name him to you; it will ſuffice that I tell you, to ſhew you his Indiſcretion, that after he had confided to me thoſe Oblig<g ref="char:EOLhyphen"/>ing Sentiments which you have for him, he has ſhew'd me the Scarf and Note, which you ſent yeſterday, as Proofes &amp; Arguments of that Bounty you had for him, from which, he ſayes, he has long endeavour'd to defend himſelf. The Queen laughing at this, ask<g ref="char:EOLhyphen"/>ed him if that was the thing which ſo much troubled him;
+<pb n="38" facs="tcp:38561:26"/> &amp; if a young giddy head as <hi>Tarnaw</hi> could be capable of making him jealous; <hi>Tarnaw,</hi> who had not been capable to give him any ſuſ<g ref="char:EOLhyphen"/>picion as to his own Wife, though doubtleſs with more cauſe. Ah! Madam, reply'd the Duke, how differently are things felt, in re<g ref="char:EOLhyphen"/>ference to a Wife, and to a Prin<g ref="char:EOLhyphen"/>ceſs that is adored; I could for<g ref="char:EOLhyphen"/>give, continu'd he, unto my Friend, all the Treacheries which he could have us'd againſt me towards the Dutcheſs, ſooner than the leaſt ſuſpicion that he could kindle in me, in reſpect of you.</p>
+            <p>The Dutcheſs was hearkening with a world of patience all her faithful Husbands Sentiments; but young and beauteous as ſhe was, Heavens knows what ſhe had in ſtore for him. The Queen would now and then puſh her with her foot, to make her obſerve the chief paſſages; and the Dutcheſs
+<pb n="39" facs="tcp:38561:26"/> did preſs her behind to bid her to continue.</p>
+            <p>If <hi>Tarnaw</hi> has any advantage o<g ref="char:EOLhyphen"/>ver you, continu'd the Queen, It is not his Merits that acquires it him; I know very well yours; but I love your Wife. Be reaſo<g ref="char:EOLhyphen"/>nable, and be contented with my Friendſhip; I give it you wholly; and here is my hand for Surety. In ſaying this ſhe took the Dutcheſs hand, which ſhe put half out of the bed, on which the blind Duke did faſten his Amorous mouth; Ah! Madam, ſaid he with a trans<g ref="char:EOLhyphen"/>ported Ayre, how eaſy it would be to paſs from friendſhip to Love towards you, but from love to bare Friendſhip is ſuch a return, which depends not even of Hea<g ref="char:EOLhyphen"/>ven. What can be done for you then, Duke? continu'd the Queen, who had much to do to contain her ſelf from laughing, ſhall you be ſatisfied, if that for proof of that tender Eſteem, that one has
+<pb n="40" facs="tcp:38561:27"/> for you, I grant you the whole Perſon whoſe hand you hold? That is too much, Charming Prin<g ref="char:EOLhyphen"/>ceſs, it is too much, repeated the paſſionate Duke, preſſing that de<g ref="char:EOLhyphen"/>licate hand with his Lips. Leſs markes of your Complaiſancy are able to make me die with Love.</p>
+            <p>When the Queen ſaw, that the deceived Duke let himſelf go thus unto the deceitful Kindneſſes which ſhe promiſed him, that he already began to proceed a little further, She thought that it was time to open the Curtains: Which this Lo<g ref="char:EOLhyphen"/>ver taking for a good ſign, he ſet himſelf on puſhing very farr his Boldneſs, when he ſaw his Wife appear, whoſe hand he held yet: Never did clap of Thunder produce ſo terrible an effect; he did not know whether his eyes were his own, and whether it was the Dutcheſs really that he ſaw; but he was ſoon perſwaded that he was play'd upon, by the great
+<pb n="41" facs="tcp:38561:27"/> Laughter which the Queen could no longer contain herſelf from; at which he was cruelly nettled. The Dutcheſs triumph'd, and taking ad<g ref="char:EOLhyphen"/>vantage of the diſturbance he was in tells him: Your Faithfulneſs, my Lord, is of a great example; it may be followed hereafter, and perhaps with better ſucceſs than your; then it will be ſeen whether you will be Jealous or no. The Duke re<g ref="char:EOLhyphen"/>ply'd not a word to that: his mind and heart were in ſuch a diſorder, through the Change that had ſo lately been put upon him, that nothing leſs then venting his Rage in Reproaches, and it might be with Injuryes alſo, could make him open his mouth, to anſwer ſuch ſevere Railleryes as were put upon him. He went out without ſpeaking, and without ſo much as looking on the Queen, who at laſt had ſome pitty of him.</p>
+            <p>She told the Dutcheſs, that ſee<g ref="char:EOLhyphen"/>ing ſhe had been the Cauſe of that
+<pb n="42" facs="tcp:38561:28"/> difference, ſhe would alſo be the maker of it up again, that it might not ſpread any further. The Dutcheſs, who thought her ſelf ſuf<g ref="char:EOLhyphen"/>ficiently reveng'd of an husband, who had not been over ſucceſsful in his Falſehood, did put all her intereſt into the hand of the Queen.</p>
+            <p>The Duke of <hi>Ostrog,</hi> was not the only Perſon, that had a Ren<g ref="char:EOLhyphen"/>dezvous that morning. The <hi>Count</hi> of <hi>Tarnaw</hi> had his hour alſo; but there were other Sweets prepared for him. He was ready to go to the Aſſignation, when he ſaw the Duke enter his Chamber, who ſat down, and was ſome moments without ſpeaking: The <hi>Count,</hi> un<g ref="char:EOLhyphen"/>to whom that Silence, no more than the Dukes ill looks, did not pre<g ref="char:EOLhyphen"/>ſage any thing pleaſant, did not preſs much to open the diſcourſe; when at laſt the Duke, you ſay nothing to me, ſaid he, with a weak and doleful voice. You were to begin, replyed <hi>Tarnaw;</hi> for
+<pb n="43" facs="tcp:38561:28"/> you come not here without deſign; and if I miſtake not, you have ſomething in your mind, which troubles you. I am not ſo happy as you <hi>Tarnaw;</hi> replyed the Duke. But ſhould I tell you my Secret, would you promiſe me to conceal nothing of Yours? I am not curi<g ref="char:EOLhyphen"/>ous of other Perſons concerns, re<g ref="char:EOLhyphen"/>plyed the <hi>Count;</hi> and that ſhall not oblige me to tell you mine. That Indifferency, replyed the Duke, makes me think, that you ſufficiently know already what I have to ſay; ſo that I cannot ex<g ref="char:EOLhyphen"/>act any thing from you. You are not ignorant doubtleſs, that I love the Queen; but you may not know, how far my Paſſion has gone. I have betrayed you, I have told her all that you had told me on her account; and confeſs that if Love did not render all excu<g ref="char:EOLhyphen"/>ſable, I ſhould not be worthy to Live. But you are better reveng'd, than if I had loſt my life. I am
+<pb n="44" facs="tcp:38561:29"/> going to live, but to be the more miſerable; I yield to the moſt fortunate. You are belov'd, and though I do you no great ſervice, in giving you up a place to which I have no pretence, I think it is fair for a Lover to abandon it to you. I have nothing more to ſay to you, continu'd he. Pit<g ref="char:EOLhyphen"/>ty in lieu of blaming me; Adieu. The <hi>Count</hi> would have ſtay'd him, to have ſome further clearing of the buſineſs; but the other would not hearken to him. Farewell, ſaid he, farewell the <hi>third</hi> time. I am going to ſeek Solitude, where you may one day come and keep me company. Ending theſe words he went out of the Chamber; his ſoul ſo afflicted, that <hi>Tarnaw</hi> was moved at it, notwithſtanding all the occaſions of Complaints which he had againſt him.</p>
+            <p>He did not doubt, but that the ill Offices that this Rival had ren<g ref="char:EOLhyphen"/>dered him near the Queen, had
+<pb n="45" facs="tcp:38561:29"/> made a very diſadvantageous Effect againſt him in her mind. Yet that could not retain him from going to her; on the Contrary, he had the greater deſire of ſee<g ref="char:EOLhyphen"/>ing her, to juſtify himſelf. He came there juſt at the ſame time that the Dutcheſs was gone forth. The Queen preſently looked upon him with a diſdainful Eye; and asked what he came to do near her; if it was to have ſome other diſcourſes to make, that might, flatter his Vanity. <hi>Tarnaw,</hi> who had prepared himſelf for a worſe Reception, rather animated than abaſhed, at the Queens ſmall Anger, did fall upon his Knees be<g ref="char:EOLhyphen"/>fore her, and told her, That he knew already the cauſes of Com<g ref="char:EOLhyphen"/>plaint, which ſhe might have a<g ref="char:EOLhyphen"/>gainſt him; That the Duke had lately told him part of what his Jealouſy had made him ſay. But that ſhe ought not to believe a Rival, nay a deſperate Rival. And
+<pb n="46" facs="tcp:38561:30"/> then continuing to juſtify him<g ref="char:EOLhyphen"/>ſelf with a tender and paſſionate Aire, he put the Queens mind into a quiet Temper again, who wiſhed more than he, to believe him Innocent.</p>
+            <p>There was no more words made of this buſineſs, but jeſting at it. The Duke and Dutcheſs were brought upon the Liſt, and the Adventure of the firſt made their divertiſement. Love had his turn alſo; I confeſs that there was no great time left for that, becauſe it began to be Late, and that the Biſhop of <hi>Cracovia,</hi> had already demanded two or three times, to be admitted to pay his Devoirs to the Queen: Nevertheleſs thoſe Moments that were left, were very well imploy'd; and becauſe that in Love there are certain Links of favours, by which one eaſi<g ref="char:EOLhyphen"/>ly and neceſſarily go from one to another, peradventure that that day the bold <hi>Count</hi> had gone ve<g ref="char:EOLhyphen"/>ry
+<pb n="47" facs="tcp:38561:30"/> far; But the troubled <hi>Prelate</hi> of <hi>Cracovia,</hi> of all the Selected, of all the Lovers the moſt Vigilant, and the moſt Jealous, was at the door, who was the fourth time asking for admittance, to ſalute the Queen; and admittance could no longer be refuſed him without great Conſequences, becauſe that <hi>Tarnaw</hi> was with her. That was a Mortal blow for the <hi>Cavalier</hi> to bear: But the Queen who was already ſenſible of her own Weak<g ref="char:EOLhyphen"/>neſs, carrying it above the Reaſons that the Throne, and her Duty could afford, was not it may be ſorry for it. The Biſhop came in with an Ayre as perplexed, as were our Lovers. There was a general Silence, which made them all think on divers ſtrange things. Our two Selected ſtood gazing at one another, and the Queen was making an end of dreſſing.</p>
+            <p>Heavens keep all honeſt Lovers from a Rival of the Maſs-Book.
+<pb n="48" facs="tcp:38561:31"/> Thoſe are terrible Lords. This here had not been ſo earneſt, without Reaſon, in coming to diſt<g ref="char:EOLhyphen"/>urb ſo agreable a Converſation. He knew what ſport was there. His Cloſet anſwered to that, in which was the Queen, and through the means of two concealed holes, one might ſee repreſented in a great Glaſs all that was acted there, and all that was ſaid was diſtinctly heard.</p>
+            <p>This <hi>Prelate</hi> was one of the beſt ſhap'd men of the Kingdom, and that had the moſt Wit: And ſet<g ref="char:EOLhyphen"/>ing aſide Gallantizing, for he was not reprehenſible on that point, he was aſſuredly a man of great Worth. He knew how to appear outwardly, and he had an Art of agreeing Piety with human frailties; ſo that paſſing for a great Gallant, he was however eſteemed a very honeſt man; ſo true it is, that in all things there is but the Way of doing them.</p>
+            <pb n="49" facs="tcp:38561:31"/>
+            <p>He could ſpeak moſt perfect <hi>Italian,</hi> and he was one of the firſt that ventur'd to Gallantiſe the Queen. The Rarity of the thing pleas'd the Queen; and without conſidering any ſcruples, as being of the Patrimony of the Church, She pleaſingly gave an Ear unto his Sacrifices and Prayers. She was come out of a Country, where abundance of thoſe Examples were frequently ſeen; and it is but in few other places that Fault is found with it. The <hi>Lord Prelate,</hi> through the eaſineſs which he found to have his Sighs well liked and approved of, did admire himſelf, and did attribute the Effects of it, unto his good Qualities, and not to the Queens Gallantizing Hu<g ref="char:EOLhyphen"/>mour. He was ſo proud of it, that he would have dared Love it ſelf to have been his Rival. So that thereby may be gueſſed, what wonder was his, when that he heard the ſweet Converſation,
+<pb n="50" facs="tcp:38561:32"/> which his inconſtant Queen had with the <hi>Count;</hi> and when he ſaw the Bounties with which She ho<g ref="char:EOLhyphen"/>noured him; How often was he tempted, Oh Heavens! to go Stab that too fortunate <hi>Count,</hi> at the Feet of that Princeſs? Finally ſome certain returns unto his Sacred Per<g ref="char:EOLhyphen"/>ſon, reducing him to Reaſon again, the Armes dropp'd from his Hands, and he was contented with going to interrupt that too cruel Miſtery. All that he ſaid to the <hi>Queen,</hi> af<g ref="char:EOLhyphen"/>ter the long Silence, into which his almoſt loſt Senſes had at firſt plunged him, came forth as from a Man that was brain-ſick. The <hi>Count</hi> retired, and the <hi>Queen,</hi> who was weary of the idle Storyes of this Prieſt, found out a way of ridding her ſelf of him.</p>
+            <p>The King, who had a deſign to go lye at <hi>Cracovia</hi> that Night, returned in good time from Hunting; and ſo ſoon as Dinner was over, the Court went towards that City,
+<pb n="51" facs="tcp:38561:32"/> where it arrived late: So that our Lovers had no opportunities of ſeeing one another that Night; as doubtleſs they had deſigned: They were forc'd to content themſelves with ſome publick Devoirs, a<g ref="char:EOLhyphen"/>mongſt which ſome Looks and Sighs were intermixed, which pro<g ref="char:EOLhyphen"/>miſed ſome other kind of Favours the day following.</p>
+            <p>The <hi>Count</hi> retired himſelf with a very contented Heart of that dayes Succeſs; for he imagin'd, that he was got to ſuch an height of good Fortune, that there was but one ſtep more to advance, to be entirely Happy. The <hi>Dukes</hi> thoughts were quite of another nature. In that Deſpair he was, he had taken leave of the Court for ſome Dayes; and was retired into the Country, where he enter<g ref="char:EOLhyphen"/>tained the Rocks and Woods, with his Misfortunes.</p>
+            <p>The Lord Biſhop had Cares that were no leſs burning than his;
+<pb n="52" facs="tcp:38561:33"/> yet he had not gone that way to work. Solitude did appear to him, a means to increaſe his Sorrows, ra<g ref="char:EOLhyphen"/>ther than to diminiſh them. Lo<g ref="char:EOLhyphen"/>vers of that temper, have good ſtrong Stomacks, they digeſt all things, and are never diſguſted. He aroſe early in the Morning, and without trouble, becauſe that he had paſs'd that Night without Sleep, and went directly to <hi>Count Tarnaws</hi> Houſe, to have ſome Con<g ref="char:EOLhyphen"/>ference with him. He was his near Kinſman; and through the Dignity of his Office, he thought he had right to give him ſome Brotherly Remonſtrances. Diſtri<g ref="char:EOLhyphen"/>butive Juſtice would have requi<g ref="char:EOLhyphen"/>red, that he ſhould begin by him<g ref="char:EOLhyphen"/>ſelf; but that which is a Crime in another, is a Trifle in thoſe Di<g ref="char:EOLhyphen"/>rectors of Conſciences. He came into his Chamber, and with a free and chearful Countenance which was very uſual with him; My dear Cozen, ſaid he, doubtleſs that
+<pb n="53" facs="tcp:38561:33"/> I awaken you a little too early, you that are an happy Lover, that Sleeps not always when you would; but there are certain Buſineſſes in hand, in which I ſhould not ſhew my ſelf a good Relation, ſhould I neglect them; and I do believe that you will be ſomething oblig'd to me for interrupting your Re<g ref="char:EOLhyphen"/>poſe. The <hi>Count</hi> having anſwered the <hi>Prelates</hi> kindneſs, with civil Complements; the Illuſtrious <hi>Cuzen</hi> purſued in this manner, Would you not be very much ſurpriz'd, ſaid he, if I ſhould bring you now an Order from the King, for to have you retire to <hi>Smolenſco;</hi> and there to wait his further Pleaſure? I ſhould of truth, replyed the <hi>Count,</hi> for I do no believe I have deſerv'd ſuch an Exile. Merited that <hi>Exile?</hi> replyed the Biſhop, No, it is no<g ref="char:EOLunhyphen"/>thing, to dare to lift your Thoughts to the Queen, and to permit your<g ref="char:EOLunhyphen"/>ſelf to be dazled with the Favours of a Princeſs, that leads you di<g ref="char:EOLhyphen"/>rectly
+<pb n="54" facs="tcp:38561:34"/> to a Precipice. Me? reply<g ref="char:EOLhyphen"/>ed the <hi>Count,</hi> bluſhing. Your ſelf, replyed the <hi>Cozen,</hi> who though you ſhould not Bluſh at it, would notwithſtanding be Condemned to Suffer the greateſt of Torments, if there was not Pitty taken of you, and if your Accuſers were not of your Friends.</p>
+            <p>The <hi>Count,</hi> who thought that his Relation ſpoke after this man<g ref="char:EOLhyphen"/>ner, but through his Zeal towards him, and the Diſtruſts which he might have upon the account, that in lieu of following the King to Hunt, he had found him that Morning with the Queen, did bold<g ref="char:EOLhyphen"/>ly maintain, that it would be with great injuſtice that he ſhould be accuſed of ſuch a Crime, and that he thought he had not need ſo much as to make his Defence in it. But the <hi>Prelate,</hi> who was na<g ref="char:EOLhyphen"/>turally very Eloquent, redoubling the ſtrength of his Remonſtrances, with all the particularities of that
+<pb n="55" facs="tcp:38561:34"/> Converſation, which he ſpecified, did put him beyond Anſwering. And of Truth he had Reaſon to be Alarum'd at the Recital of all that had paſſed betwixt the Queen and he in a Cloſet, where they had no other witneſſes but Love: It was not likely that that Princeſs ſhould have confided that Secret to ſuch a Man as was the Biſhop of <hi>Cra<g ref="char:EOLhyphen"/>covia;</hi> and in mean time, unleſs ſome familiar Spirit, had deſign'd to re<g ref="char:EOLhyphen"/>veal their Amours, he could not imagine that it could be known from any other than the Queen.</p>
+            <p>All theſe Thoughts did come and go in his Mind, during the Biſhops Diſcourſe; who taking ad<g ref="char:EOLhyphen"/>vantage of the Diſorder he was in, did begin to draw him a moſt terrible Picture of his Crime, and of his Ingratitude towards a Prince, which did daily over-whelm him with Kindneſs; ſo that awakening in him thoſe juſt Reproaches, that an honeſt virtuous Man ought to
+<pb n="56" facs="tcp:38561:35"/> uſe againſt himſelf, in ſuch a Caſe, it wanted but little that his Love was not quite extinct. He pro<g ref="char:EOLhyphen"/>duc'd ſome weak Reaſons to ex<g ref="char:EOLhyphen"/>cuſe himſelf. But they were over<g ref="char:EOLhyphen"/>come by ſo many others, that he had nothing left but Confuſion, in which the Biſhop was pleas'd to leave him, telling him, That in this buſineſs, there was no leſs Concern, than his Fortune, his Ho<g ref="char:EOLhyphen"/>nour, and peradventure, his Life alſo; all which he ventur'd for nothing, or at leaſt for a Princeſs, who was a Woman like others; and that would leave him one day for ſome body elſe, though leſs deſerving.</p>
+            <p>All that admirable Diſcourſe, with that Tendency which the <hi>Count</hi> had for his Duty towards his King, that honoured him with his good Will, having made upon him ſuch Impreſſions as it ought to do, he was very much ſhaken, and paſſed away ſome Cruel Mo<g ref="char:EOLhyphen"/>ments;
+<pb n="57" facs="tcp:38561:35"/> he did perceive that that Paſſion, as happy as it could be, could not of Truth, but cauſe him an eternal Repentance. The Biſhop was already inform'd of it, and others might be ſo too; and the King would not fail at laſt of know<g ref="char:EOLhyphen"/>ing it, if he knew it not already. In ſo fair a way of Reflections, which caus'd him great perplexi<g ref="char:EOLhyphen"/>ty, this Note was brought him from the Dutcheſs of <hi>Oſtrog.</hi>
+            </p>
+            <p>So long as your Friendſhip could preſerve that Honour which it me<g ref="char:EOLhyphen"/>rited, I wiſh'd the Duration of it: But ſince that it only ſerves as a Divertiſement to ſome, be willing to let it end: It was too fair not to produce Jealouſy; and thoſe that were ſo, have at laſt Tri<g ref="char:EOLhyphen"/>umph'd: Expect neither Reproa<g ref="char:EOLhyphen"/>ches nor Complaints from me; with the fame Liberty that Per<g ref="char:EOLunhyphen"/>ſons come, with the ſame Free<g ref="char:EOLhyphen"/>dom I let them retire. I neither call, nor retain any one: But when
+<pb n="58" facs="tcp:38561:36"/> once a Perſon ſeparates without Cauſe, the buſineſs is done, there is no return. Adieu <hi>Count,</hi> let us no more ſee one another, I Con<g ref="char:EOLhyphen"/>jure you of it; I might pitty you, after what you know, and might bring you into a Confuſion; A<g ref="char:EOLhyphen"/>dieu, for the laſt time.</p>
+            <p>The <hi>Dutcheſs</hi> had but laught at the Adventure of her Husband; ſhe was obliged to the Queen, for having ſo well Reveng'd her, and in having ſhew'd her what little Concern ſhe had for the <hi>Dukes</hi> Paſſion: But as to the <hi>Count,</hi> whom ſhe had alwayes conſidered as a render Friend, whom ſhe could not think of loſing, nothing had touch'd her ſo ſenſibly, as to learn that ſhe had loſt him; not but that certain Wayes, which of late ſhe had obſerv'd in him towards her, with the Reſervedneſs he ſhew'd in what concern'd the Queen, where<g ref="char:EOLhyphen"/>as formerly he did Inform her of all things, ought to have prepared
+<pb n="59" facs="tcp:38561:36"/> her unto all that; but be it that we do not eaſily believe any thing, which is diſadvantageous to us, and that it is eaſy to flatter our ſelves, ſhe did not believe him ſo unworthy as to turn perfidious. What a Vexation is it for a Beau<g ref="char:EOLhyphen"/>teous Woman, to learn of the Un<g ref="char:EOLhyphen"/>worthineſs of a Man, that leaves her, to give himſelf to another, for whom he has expreſſed a thou<g ref="char:EOLhyphen"/>ſand Slites? She began to open her Eyes, and to ſee that the loſs of the <hi>Count,</hi> was the Price of that Friend<g ref="char:EOLhyphen"/>ſhip that the <hi>Queen</hi> had ſhewed her, and that ſhe had not been the moſt ſubtle of the two. Theſe Reflexi<g ref="char:EOLhyphen"/>ons which produc'd divers others, did repreſent unto her the Wrong which was done her, to be a thing ſo cruel, that there was nothing ſhe would not do to Revenge her ſelf. But as ſhe was a Woman of Wit, ſhe would not fly out, judg<g ref="char:EOLhyphen"/>ing well that all the Noiſe would reflect upon her ſelf. All her
+<pb n="60" facs="tcp:38561:37"/> Cares were firſt employ'd in bring<g ref="char:EOLhyphen"/>ing the <hi>Count</hi> back again. She knew his Humour well; and did underſtand well which way to go about it.</p>
+            <p>She began by that Letter, which produc'd that Effect which ſhe had promiſed her ſelf; for the <hi>Count,</hi> who from the day before had ta<g ref="char:EOLhyphen"/>ken the Reſolution of not ſeeing her any more, did find himſelf touch't with a ſecret Diſpleaſure; ſo ſoon as he ſaw, that ſhe was the firſt to adviſe him to it, and that indifferency, which ſhe ſhew'd in her Letter, did more ſenſibly touch him, than all the Reproaches that ſhe could have uſed, He did Sigh! He afflicted himſelf, and from that time he thought, that he ſhould be the moſt Unfortunate of all Men, if he ſhould loſe the Friendſhip of a La<g ref="char:EOLhyphen"/>dy, without whom he could not Live. It is not unlikely, but that the condition in which the Re<g ref="char:EOLhyphen"/>monſtrances
+<pb n="61" facs="tcp:38561:37"/> of the Biſhop had ſettled his Mind, did much Con<g ref="char:EOLhyphen"/>tribute in making him receive all thoſe Impreſſions. But here is what he Anſwered to the <hi>Dut<g ref="char:EOLhyphen"/>cheſs.</hi>
+            </p>
+            <p>You would abandon me, Ma<g ref="char:EOLhyphen"/>dam, when I have the moſt need of you. I am undone if I ſee you no more; I confeſs that my Weak<g ref="char:EOLhyphen"/>neſs would deſerve that Puniſh<g ref="char:EOLhyphen"/>ment: But I am a Man, and you ought not to be ſurpriz'd at my committing of Faults: Though mine ſhould be inexcuſable, you are oblig'd to forgive it me; for if you had pleas'd I had been leſs Guilty; help me then, to get out of it, ſince that I freely confeſs it to you. Spare if you pleaſe neither Reproaches nor Chidings. All Remedies will be ſweet to me, ſo they ſerve to bring me back to my Duty again: All my Joy, and all my Glory ought to be limited, in being wholly yours.</p>
+            <pb n="62" facs="tcp:38561:38"/>
+            <p>This Note ſeem'd to have ſome<g ref="char:EOLhyphen"/>what ſettled his Mind; and as if he had already gain'd much over himſelf, thus to have writ to the <hi>Dutcheſs,</hi> He thought himſelf al<g ref="char:EOLhyphen"/>moſt free from that dangerous Love which he had for the Queen. But Lovers know themſelves very little, and all thoſe Reſolutions are but falſe Revolts, which ſerve but to re-ingage them the more.</p>
+            <p>This was Evident in the Perſon of the Count of <hi>Tarnaw,</hi> who not<g ref="char:EOLhyphen"/>withſtanding all that the Biſhop had told him, and all that he had writ to the <hi>Dutcheſs,</hi> with all his Reflections and great Deſigns of returning unto his Duty, could not forbear going to the Juſting, which was to be perform'd that Day, and there to wear the Queen's fine Scarf.</p>
+            <p>The <hi>Dutcheſs</hi> had a great mind not to be there, but the <hi>Queen</hi> found out a means to ingage her to it, in ſending to her the Prize of
+<pb n="63" facs="tcp:38561:38"/> the Tilting, which was a Heart of Diamonds, to give to him that ſhould get the Advantage. If ſhe could have gueſſed that the <hi>Count</hi> ſhould again win the Prize; doubt<g ref="char:EOLhyphen"/>leſs but that ſhe had diſpenc'd her ſelf from ſerving the Queen in that reſpect; but there being o<g ref="char:EOLhyphen"/>ther <hi>Cavaliers</hi> as Brave and as Dextrous as he, and that beſides, ſhe would be very glad to ſee, whether he would wear that Scarf, after that which he had Writ to her, ſhe yeilded unto her Rivals deſires.</p>
+            <p>Never had the <hi>Count</hi> appeared with ſuch Gallantry, as he did that Day; and his Dexterity as well as good Meen, was admired by all; The King was Charm'd with it, as well as the Queen, who, without the leaſt regard or management, call'd out to every one to have them obſerve, all that this dear Lover did perform. The <hi>Dutcheſs</hi> was the only Perſon that
+<pb n="64" facs="tcp:38561:39"/> ſeem'd not concern'd at all, and ſhe did appear with ſo much dull<g ref="char:EOLhyphen"/>neſs, as oblig'd two or three times the Queen, to ask her what ſhe Ailed; but her Trouble was very great, ſeeing that ſhe could not conſtrain her ſelf.</p>
+            <p>The <hi>Count</hi> at laſt was the Con<g ref="char:EOLhyphen"/>queror, and approaching to the <hi>Dutcheſs,</hi> not without Bluſhing, to receive the Prize: If you wanted nothing more, ſaid ſhe, with a cold Air, but this Heart to be Contented, you are now very hap<g ref="char:EOLhyphen"/>py; and not ſtaying for his An<g ref="char:EOLhyphen"/>ſwer, ſhe turn'd to Count <hi>Topor,</hi> a young handſome Lord, who of late did Viſit her with ſome Aſſi<g ref="char:EOLhyphen"/>duity, and who gave her his Hand to lead her home. <hi>Tarnaw</hi> would have ſtayed her, but the Queen, whoſe Eyes were never off of him, call'd him, &amp; finding him dull, ſhe ask'd him, what the <hi>Dutcheſs</hi> had ſaid, and whether there was an ab<g ref="char:EOLhyphen"/>ſolute Rupture, or a Reconciliation
+<pb n="65" facs="tcp:38561:39"/> betwixt them? No Madam, he re<g ref="char:EOLhyphen"/>ply'd, it is neither the one nor the other, but her Coldneſs ſurprizes me. Does her Coldneſs ſurprize you, <hi>Tarnaw?</hi> reply'd that Princeſs, Is it not that you repent already your Abandoning of her? The <hi>Count</hi> would have juſtified him<g ref="char:EOLhyphen"/>ſelf from ſuch a Cenſure, but ſhe gave him not time to Anſwer; and making ſign to him to be ſilent; Go, ſaid ſhe, follow your own Inclinations, I will have no Heart that in the leaſt wavers, in giving it ſelf wholly to me: Think on it, and give me your Anſwer this very Night. This Lover, who did ſee, that the place was not fit for the clearing of ſuch a buſineſs, did not inſiſt any lon<g ref="char:EOLhyphen"/>ger for to be heard, and retired to put off his Armour.</p>
+            <p>Never was Man more agitated than he; his miſhap proceeded from being too happy. His Heart was too much burdened with two
+<pb n="66" facs="tcp:38561:40"/> the moſt Charming and moſt per<g ref="char:EOLhyphen"/>fect Objects on Earth; one of which was capable of ſatisfying the Ambition, and of pleaſing the Deſires of the moſt Ambitious and moſt Paſſionate of all Men. But he was to chuſe, and he knew not which to leave. In following, purely, Love, he tended towards the Queen; ſhe had ſuch ſoft and tender Wayes, ſuch a Complaiſant winning Ayr, and even ſome<g ref="char:EOLhyphen"/>time ſuch pritty paſſionate Expreſ<g ref="char:EOLhyphen"/>ſions as Enchanted him. But then to abſolutely abandon the <hi>Dutcheſs,</hi> with whom he had Contracted a kind of Habitude, Tenderneſs, So<g ref="char:EOLhyphen"/>ciety, and Confidence, that was renouncing a world of Pleaſures; that was tearing himſelf, from what there was for him of moſt ſweet and agreeable in this Life. The <hi>Queen</hi> had Chang'd for Love of him, ſhe might well change again for Love of another. There were divers Examples of her In<g ref="char:EOLhyphen"/>conſtancy;
+<pb n="67" facs="tcp:38561:40"/> and he would not flat<g ref="char:EOLhyphen"/>ter himſelf with being capable of of ſetting Limits to it. The de<g ref="char:EOLhyphen"/>fects of Temper are rarely amen<g ref="char:EOLhyphen"/>ded. Unto all thoſe Reaſons, thoſe which concern'd his Duty were added, which the Lord Biſhop of <hi>Cracovia</hi> had made him too well to underſtand, to forget them ſo ſoon. In fine, he reſolv'd to keep the ſureſt ſide; which was that of the <hi>Dutcheſs,</hi> and as he had need of her Aſſiſtance, to bear that Victory over his own Heart, he was no ſooner unarmed, but that he went to her.</p>
+            <p>Long ſince he had the Privi<g ref="char:EOLhyphen"/>ledge to go in there, with the ſame Liberty that the Duke himſelf did uſe; and after he had inquir'd, if the Lady was there, he went di<g ref="char:EOLhyphen"/>rectly to her Chamber, where he found a Gentlewoman at the Door, who told him that there was no going in. That refuſal ſurpriz'd him; he for whom the Doors were
+<pb n="68" facs="tcp:38561:41"/> there alwayes open; he inquired the Reaſon, and he was Anſwered; that my Lady was buſy, and that there was ſome Body with her: He would know who that ſome Body was: The Gentlewoman, who was Tutor'd thereto, would not tell, or at leaſt would be preſ<g ref="char:EOLhyphen"/>ſed to it, to render the Myſtery more important. He preſſed, he intreated, and at laſt he learn'd, that it was the Count <hi>Topor.</hi> The Count <hi>Topor?</hi> replyed he, to him<g ref="char:EOLhyphen"/>ſelf, alone in a Chamber with the <hi>Dutcheſs,</hi> where I muſt not en<g ref="char:EOLhyphen"/>ter? On this he buſied himſelf ſome time, without any deſire that Notice ſhould be given of his being there; he had a deſire to ſee whether that ſecret Entertain<g ref="char:EOLhyphen"/>ment would laſt long. He ſat down near the Gentlewoman, en<g ref="char:EOLhyphen"/>tertaining her with divers indiffe<g ref="char:EOLhyphen"/>rent things, while his mind was an other way. But as he grew weary every moment of waiting
+<pb n="69" facs="tcp:38561:41"/> ſo long, he roſe and ſat down a<g ref="char:EOLhyphen"/>gain at leaſt a dozen times. At laſt Impatiency did ſo ſeize him, that he deſired the Gentlewoman to go ask her Miſtreſs, whether he might not Entertain her a mo<g ref="char:EOLhyphen"/>ment. She made ſome kind of difficulty, on the Orders which ſhe had received from the <hi>Dutcheſs,</hi> but at laſt ſhe ſeemed to be per<g ref="char:EOLhyphen"/>ſwaded through his Importunities, and return'd to tell him for an<g ref="char:EOLhyphen"/>ſwer, That the <hi>Dutcheſs</hi> did deſire him to excuſe her, and that ſhe could not ſee him, till the Count <hi>Topor</hi> was gone. This ſecond Re<g ref="char:EOLhyphen"/>fuſal more Cruel yet than the for<g ref="char:EOLhyphen"/>mer, quite breaking the Heart of Count <hi>Tarnaw;</hi> He aroſe in good earneſt, and yielding unto the ſpight which the Jealouſy and the Shame of ſuch an Affront did in<g ref="char:EOLhyphen"/>ſpire him with; He told the Gen<g ref="char:EOLhyphen"/>tlewoman ſhe might tell her Lady, That he would not expoſe him<g ref="char:EOLhyphen"/>ſelf a ſecond time to be ſo ill re<g ref="char:EOLhyphen"/>ceiv'd;
+<pb n="70" facs="tcp:38561:42"/> with that he went away, and left one of his Lacquais at the Door to keep Centry, and to give him an account when Count <hi>Topor</hi> ſhould go forth.</p>
+            <p>The Truth of the Story was, That there was no body with the <hi>Dutcheſs;</hi> and that this <hi>Dutcheſs</hi> having perceiv'd the <hi>Count</hi> com<g ref="char:EOLhyphen"/>ing by a Window, had ſhut her ſelf up in her Chamber, and had order'd her Woman to make all that Sport, who was very Dex<g ref="char:EOLhyphen"/>trous at ſuch things, and her great Confident. She had thus gratifi<g ref="char:EOLhyphen"/>ed her little Ambition, and had taken extream Delight in hearing her Woman relate all the earneſt Deſires, the Uneaſineſs, Frettings, and Diſtruſts which ſhe had caus'd the <hi>Count</hi> to Suffer. But however, ſhe had been very glad to have ſpoken to him; and feared leſt ſhe might have driven her Reſent<g ref="char:EOLhyphen"/>ment too far; which gave her ſome Diſturbance all that Night.</p>
+            <pb n="71" facs="tcp:38561:42"/>
+            <p>The <hi>Count</hi> was returning home, prepoſſeſſed with a thouſand Vexa<g ref="char:EOLhyphen"/>tions that troubled him; when one of his Servants, who was go<g ref="char:EOLhyphen"/>ing to the <hi>Dutcheſs</hi> for him, told him, That the <hi>Queen</hi> had ſent three or four times, to know if he were at home. This Advice having put new thoughts into his Head, did make him take the Reſolution of going, that he might Conſolate himſelf, near the <hi>Queen,</hi> of the <hi>Dutcheſſes</hi> Scornes. So he directed his Steps towards the Caſtle: He came to that Princeſs's Appart<g ref="char:EOLhyphen"/>ment; where he was told, that the Biſhop of <hi>Cracovia</hi> was with her; an ill Conjuncture for him; he thinks it fit to wait his going out, that he might avoid another Lecture; and paſſing on the other ſide of the Appartment, he en<g ref="char:EOLhyphen"/>ter'd into a Gallery, where but few Perſons reſorted, becauſe that it anſwered unto the <hi>Queen</hi>'s Clo<g ref="char:EOLhyphen"/>ſet. He thought at his coming
+<pb n="72" facs="tcp:38561:43"/> there, that he heard the Voice of the Biſhop. It was very dark, there was no light in the Gallery, and he thought that he might boldly approach to the Door whence the Noiſe came. He heard that there was ſome Diſcourſe of him; his Curioſity redoubled; he lends an Ear unto the Key-hole, and he diſtinguiſhes the Queen's Voice: <hi>Tarnav;</hi> ſaid ſhe, is a Villain, if he has ſaid this; but for your own quiet I adviſe you not to believe any thing of it. I ſhall not believe any thing of it, Ma<g ref="char:EOLhyphen"/>dam, reply'd the Biſhop, if that for to Puniſh him, you ſee him no more I ſee him? reply'd the <hi>Queen:</hi> If I do ſo, it ſhall be to Treat him as the meaneſt of Men. Be more favourable to him Ma<g ref="char:EOLhyphen"/>dam, reply'd the <hi>Prelate,</hi> and ſee him not at all: If you pleaſe, ad<g ref="char:EOLhyphen"/>ded he, I ſhall let him know your Mind. The <hi>Queen</hi> anſwered not preſently, but after ſome few Mo<g ref="char:EOLhyphen"/>ments
+<pb n="73" facs="tcp:38561:43"/> of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, ſhe ſaid that ſhe conſented to it. Upon which the Biſhop, who thought that he had obtained all that he <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wiſh for, took leave of the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and went out through the door of that Gallery, with ſuch precipitation, that he had like to have ſurpriſed the over-curious <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p>There <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was any Surpriſal <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to that of this Lover, to hear the good ſervices which his dear kinſman rendered him. He could not gueſs what Cauſe he had, to uſe him ſo <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. There was not the leaſt Noiſe imagina<g ref="char:EOLhyphen"/>ble at Court, that he had any A<g ref="char:EOLhyphen"/>morous deſigns towards the <hi>Queen</hi> and but little likelyhood that <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Prudent a Perſon as He, and of his Character, ſhould be guilty of that Folly, which he condemn'd in <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo much. All other thoughts bad that would have <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> mind. He had
+<pb n="74" facs="tcp:38561:44"/> but juſt time enough to retire hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſelf; and 'twas well for him that the honeſt Prelate came out with<g ref="char:EOLhyphen"/>out a Light. He let him paſs by with a deſign to follow him ſoon but Fortune who was preparing more new Adventures for him that Night, would have it that th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Biſhop going out of the Gallery, drew the other Door after him; ſo that the <hi>Count</hi> found himſelf looked up on all ſides, not knowing which way to ſtir forth.</p>
+            <p>This laſt Trouble was almoſt the hight of his Deſpair; He would not, for half his life, have been found alone in that place, eſpeci<g ref="char:EOLhyphen"/>ally at that hour: That might have drawn divers ill Conſequen<g ref="char:EOLhyphen"/>ces, or at leaſt divers Ralleries, which had made ſport at Court, if it had been known, that he had been obliged to paſs all the Night long there; and his Vexation as well as his Deſpair, did increaſe a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of as he reflected on the Impoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bility
+<pb n="75" facs="tcp:38561:44"/> there was of g<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing off, with <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome Celeſtial Aſſiſtance. On the <hi>Queens</hi> ſide, though he had a paſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, it was the hour that the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> uſed to be with her, and <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>re, would be too much danger <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him there, after what <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> already diſcourſed abroad. The other door was of proof a<g ref="char:EOLhyphen"/>gainſt all his ſtrength, and in <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing any noiſe, he run the danger of being heard from the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ngs ſide; The Windowes were <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oo high; to get off that way, would endanger his life. In fine there was nothing to be done, but to wait with patience the com<g ref="char:EOLhyphen"/>ing of the Day. A cruel Choice indeed, for a man, that had al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dy ſo many other Troubles to <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e off, without the need, of paſſing a whole night in ſuch a kind of Function.</p>
+            <p>As he was admiring on this the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ur of his Fate, that all that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> long had brought him from
+<pb n="76" facs="tcp:38561:45"/> one Croſſeneſs to another, the door was open'd on the <hi>Queene</hi> ſide; and the King came out followed by that Princeſs. Hap<g ref="char:EOLhyphen"/>pily for the <hi>Count,</hi> one of the grea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Pictures of the Gallery, that war<g ref="char:EOLhyphen"/>red ſomething to be mended, wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> let down, behind which he ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> leiſure to hide himſelf.</p>
+            <p>It was <hi>Sigiſmond</hi>'s Cuſtom eve<g ref="char:EOLhyphen"/>ry night in Summer, to take ſome <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urnes in that Gallery, before h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> went to bed, &amp; the <hi>Queen</hi> would ſometimes keep him Company. She was then entertaining of him, with the Amourous ſtories of her Selects; of which ſhe told him divers as much to divert him, as to gain the more Confi<g ref="char:EOLhyphen"/>dence from him. What would you ſay Sir, ſaid She, if that the Biſhop of <hi>Cr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>covia</hi> is in love with me alſo? I ſhould ſay, replyed the King, that he could not be ſo with a more Beautiful Woman; but I believe him too wiſe; and you
+<pb n="77" facs="tcp:38561:45"/> would have much to do to per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e me to it. I aſſure you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat he is ſo, replied the <hi>Queen,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to that height as to become <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> us of all that come near me: <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> firſt Declaration of Love that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ever made me, continued ſhe, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in his <hi>Maſs Book;</hi> where he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> me, that he would ſhew me <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> greateſt Devotion he had: <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ch conſiſted in five or ſix <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ts of my Picture, all which <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſented me in divers poſtures of Saints, and he at my Feet. Of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th I never did laugh ſo much <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all my life, for never any of my <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vers had ever deviſed to make love to me after ſuch a Pious manner.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſmond,</hi> who was a good <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> could not forbear laughing alſo; but he thought that it was <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a jeſting ſtory, or that at leaſt the <hi>Queen</hi> fitted it to her own humour. I ſwear unto you, ad<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſhe that he is jealous of <hi>Tar<g ref="char:EOLhyphen"/>naw;</hi>
+               <pb n="78" facs="tcp:38561:46"/> and that he will not have me to ſee him. But, <hi>Madam,</hi> ſaid the King, in way of Admonition. Do not you your ſelf give way unto ſuch Inſolences? You have ſuch ſorts of kind wayes and man<g ref="char:EOLhyphen"/>ners, continued this Prince, which in <hi>Italy</hi> would be nothing, but that in ſuch a Country as this cauſe divers things to be thought and ſaid, more than there is. A little more Moderation, in all thoſe Outward things, continued he, would not ill become you. What, muſt I then reform my ſelf, replyed the <hi>Queen,</hi> for my Lord Biſhop's ſake? No <hi>Madam,</hi> replyed the King, but for your Own ſake. I muſt have ſome time <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ow'd me Sir, ſaid the <hi>Queen,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> my ſelf, unto the Cuſtomes of the Country, and I cannot warrant you, that I can ever be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Barbarous, and to take no longer any delight in Life, or in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Society, as I ſee divers do here.</p>
+            <pb n="79" facs="tcp:38561:46"/>
+            <p>The King, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o whom this diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſe did not pleaſe, changed the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ine; and after ſome Turnes <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the Gallery, they reti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>is Adventure, which was <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Tarnaw</hi> a Scene, in which he did ſee a Picture of the <hi>Queens</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ural humour drawn to the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> who would eaſily ſacrifice <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that ſhe had favoured, did <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him much cauſe of <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>izing on her Perſon, all the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of that Night. The Incom<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e Biſhop, with his Declara<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on was not forgot; but above all <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> admit the Kings Patience; who had ſo much Indulgency for the <hi>Queens</hi> little Sallies. It is true, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Prince had already de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>red on this account, unto ſome unreaſonable givers of Advice, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat if he was to have puniſhed o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other all thoſe, of whom the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had given him cauſe of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> plaint, his Court would be
+<pb n="80" facs="tcp:38561:47"/> in a ſhort time quite deferted.</p>
+            <p>This Impunity however, not the Kings Clemency, did not give the <hi>Count</hi> any deſire, to engage any farther with the Queen; on the contrary, the more this Prince was Indulgent, the more Horror had he of his Crime. Beſides, that this night, he was very much out of humour with Love, through all thoſe Accidents which had hap<g ref="char:EOLhyphen"/>pen'd unto him, and of which he was not yet quite rid. Never had any night ſeemed ſo long and te<g ref="char:EOLhyphen"/>dious to him. At laſt Day came; and one of the Kings Bed-chamber, having ſome buſineſs that way, came, luckily to open the door, while he was behind that Picture.</p>
+            <p>Never Man that was condemn'd <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> perpetual Priſon, could go with more joy, out of his Bonds, then he did out of that Place: So ſoon as he was returned home, he enquired after; the Lacquay which he had left at the Dutch<g ref="char:EOLhyphen"/>eſſe's
+<pb n="81" facs="tcp:38561:47"/> door; he was anſwered than hea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as ſtill in Gentery on which his <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>plexity did redouble. He could <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> believe that Count <hi>Topor</hi> had <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the night ſo fortunately. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Ducheſs was a woman of great Circumſpection: And this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng <hi>Count</hi> could at moſt ſerve <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, but for Divertiſement. His <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ming to the Dutcheſſes was to learn Manners, for it was a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> School for that; ſhe did call him her Son; not but that ſhe was too Young to have any of the age, but through a Kindneſs, which could not go far. Yet beau<g ref="char:EOLhyphen"/>teous and well-made as he was, there had been ſome Talk about it with any other Perſon, than the Ducheſs; who had had the good <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>une of being a Gallant, with<g ref="char:EOLhyphen"/>out the leaſt ſuſpicion of Gallan<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſing.</p>
+            <p>The <hi>Count</hi> of <hi>Tarnaw,</hi> impati<g ref="char:EOLhyphen"/>ent to know the Truth of this, ſent to his Man, to learn ſome
+<pb n="82" facs="tcp:38561:48"/> news; Word was brought him <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all that night no Per<g ref="char:EOLhyphen"/>ſon of Note had ſtirred forth of the Dutcheſſe's: This put him into greater perplexities then ever. He changes his Cloathes, and fol<g ref="char:EOLhyphen"/>lowed but with one ſingle Ser<g ref="char:EOLhyphen"/>vant, he deſigned to ſurpriſe the D<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>che<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. When that he ſaw come i<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> his Chamber the Biſhop of <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>avia.</p>
+            <p>The Reception he made him with very cold. I ſee, dear Couſin, ſaid the Prelate, that I came at <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> time, and that you are not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> early in the Morning, but upon ſome great deſign<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; but you know to what Perſons of now profeſſion are obliged; and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that we are to obey ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fl<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Orders. I bring yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, continued he, which will not be very agreable <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. What? Interrupted the <hi>C<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t</hi> firſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not being deſirous to h<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> any thing diſcourſe with him
+<pb n="83" facs="tcp:38561:48"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <hi>Q<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> from ſeeing <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Biſhop ſurpriſed to hear <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> what he had to ſay, could <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> now he ſhould th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by ſome <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> her ſelf had <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eady informed him of it. He <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old him that of truth it was that which had brought him <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Queen having doubt <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, that there was ſome <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of that Converſation; which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he had had with him in his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ountry Houſe, ſhe had thought <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Ho<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ours <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e reſt, and the <hi>Counts</hi> good, not to ſee him for ſome time, but as ſhee did <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> indifferently all the reſt of the Court; and that this Advice was <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſufficient Conſequence, to have him profit by it; That ſhe had employed him, to declare it to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as a near <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inſman, and one of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. The <hi>Count</hi> not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> moved at all that the Bi<g ref="char:EOLhyphen"/>ſhop
+<pb n="84" facs="tcp:38561:49"/> ſaid, replyed, in ſuch a ſeri<g ref="char:EOLhyphen"/>ous manner, as would confound any man, That he knew well of what nature, the Obligation he ow<g ref="char:EOLhyphen"/>ed him in this rencounter was, and that he might tell the <hi>Queen</hi> that he would obey her Orders, as ſhe deſired. You ſpeak with ſuch an Ayr, replyed the Bi<g ref="char:EOLhyphen"/>ſhop, it ſeems as if I diſobliged you. Once more, I am perfectly inſtructed, replied the <hi>Count,</hi> of all your Bounties; and in time and place, I ſhall thank you for them. Can you ſuſpect me? interrupt<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the <hi>Prelates</hi> Not at all, replyed <hi>Tarnaw<g ref="char:punc">▪</g>
+               </hi> but I think that I ſhould not have over much cauſe of con<g ref="char:EOLhyphen"/>fiding in a man, that ſhould ac<g ref="char:EOLhyphen"/>cuſe me falſly to the Queen. Who could accuſe you, replied the Bi<g ref="char:EOLhyphen"/>ſhop bluſhing? Have you ſome <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ivals that can be ſo much con<g ref="char:EOLhyphen"/>cerned at your good Fortune? The <hi>Count,</hi> who began to be <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uing his falſe Reaſon<g ref="char:EOLhyphen"/>ing;
+<pb n="85" facs="tcp:38561:49"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſome, ſayd he to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fiercely, and that ſhould med<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with any thing elſe than Gallan<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng. That does not concern <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid the good Prelate, in great <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> order. I know not whether <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> concernes you or not, reply<g ref="char:EOLhyphen"/>ed the <hi>Count;</hi> But I know well that the King is informed, that <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>in man of your Character, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound out the way of making <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> D<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion of Love unto the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in his Maſs Book. The L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd Biſhop, not being able to <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> clearing of a thing which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him with Confuſion<g ref="char:punc">▪</g> aroſe, and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> king an haſty leave of the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Farewell ſaid he, you may <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> profit of my Advices, if you <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; but whenceſoever they <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> will let you know that <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in need of them, as much others<g ref="char:punc">▪</g> The <hi>Count,</hi> who thought <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> told him enough did let <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o go himſelf about other <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs<g ref="char:punc">▪</g> and to execute the de<g ref="char:EOLhyphen"/>ſign
+<pb n="86" facs="tcp:38561:50"/> which he had in his Heart, as well as in his mind.</p>
+            <p>He went forth with that Ser<g ref="char:EOLhyphen"/>vant, and wholly taken up with his Diſtruſts, he took the direct way to the Dutcheſſes Palace; to-wards which he was no ſooner come, but that he ſaw a man come forth, which was ſomething near the <hi>Count</hi> of <hi>Topors</hi> pitch; and who under a diſguiſe, did endeavour to hide his face with a kind of Robe or Cloak, which was then worn. He follows him, accoſt's him, and ſpeaks to him. He preſſes him to diſcover himſelf, telling him, that it was to no purpoſe to hide him<g ref="char:EOLhyphen"/>ſelf, that he knew him, and that he was ſure, he was the <hi>Count Topor.</hi> The other ſaid not a word, goes on his way ſtill, with as quick a Pace as he could, and lets <hi>Tarnaw</hi> talk on. He who would be fully informed of the buſineſs, ſeeing that there was no likelihood of being ſatisfied that way, looſes his
+<pb n="87" facs="tcp:38561:50"/> patience, ſpeaks with a more loud <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reatning voice, of falling on this <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> know perſon, whom he is ab<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tely reſolved to know; but he having a Servant, and the other none, to have no Advantage over h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, he ſent him back: After which, renewing the Aſſault, You the happy Lover of the <hi>Dutcheſs</hi> of <hi>Oſtrog,</hi> ſaid he to him, you ſhall <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eſcape me; I am ſingle as well as you, and for the Trouble y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> give me, you muſt make me S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arer in all your adventure, or we muſt cut one anothers throats. Le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> get into this houſe, continued y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> (being then juſt before a Mer<g ref="char:EOLhyphen"/>chants door, which he knew ve<g ref="char:EOLhyphen"/>ry well) and there we ſhall take meaſures more at leiſure, to ſa<g ref="char:EOLhyphen"/>tisfy me one way or other. This unknown perſon, having made no difficulty to follow him, <hi>Tarnaw</hi> asked for a Chamber, where be<g ref="char:EOLhyphen"/>ing locked in with his pretended <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>al<g ref="char:punc">▪</g> Come it is time to leave
+<pb n="88" facs="tcp:38561:51"/> off this Cloak and ſpeak clearly, ſaid he, for there are but us two here. The pretended <hi>Count</hi> of <hi>Topor,</hi> ſitting in a Chair, ſtill muffled in his Cloak, did neither anſwer or move: When the im<g ref="char:EOLhyphen"/>patient and furious <hi>Tarnaw,</hi> coming near him took the end of his Cloak, and did pull it with ſuch a force, that taking it from him, he failed but little of throwing him down Chair and all. The ſtreſs he made, and his Fury did hinder him at firſt from ſeeing with whom he had to do; but having laid his hand on the hilt of his Sword, to be in readineſs, in caſe the other ſhould require Satisfacti<g ref="char:EOLhyphen"/>on, he caſt his eyes on him, and perceived that it was the <hi>Dutcheſs.</hi> What an amazement was his! Never was man more confoun<g ref="char:EOLhyphen"/>ded. He no ſooner was come to him<g ref="char:EOLhyphen"/>ſelf again, but caſting himſelf at the Ladyes feet, Is it poſſible it ſhould be you <hi>Madam?</hi> ſaid he,
+<pb n="89" facs="tcp:38561:51"/> (with a voice which ſufficiently ſhewed the Trouble which he had or that Error he had committed) How will you forgive me ſo rude a Violence? Yes <hi>Count,</hi> I forgive it you, replyed the <hi>Dutcheſs,</hi> ſmi<g ref="char:EOLhyphen"/>lingly; and I confeſs to you more<g ref="char:EOLhyphen"/>over, continued ſhe, cauſing him to riſe, that you never did any any thing in your life, that has pleaſed me ſo much as this; for by this I know that you have ſtill ſome Kindneſs for me, and that the <hi>Queens</hi> Charmes have not wholly driven me out of your heart. Say rather, <hi>Madam</hi> replyed the <hi>Count,</hi> That that Princeſſes Charmes have not ſo much dazled me, but that I acknowledge my fault. I had begg'd your pardon yeſterday for it, continued he, if you had not been ſo cruel as to refuſe hearing me, for a young Rivals ſake, with whom you were doubtleſs comforting your ſelf of the loſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of me. The <hi>Dutcheſs</hi>
+               <pb n="90" facs="tcp:38561:52"/> laughing, confeſſed to him that little piece of Malice; and told him the Sorrow which ſhe had received by it afterwards, and that in the Trouble that it had put her all the night long, ſhe had diſguiſed her ſelf, as he then ſaw her, to go ſeek him at his own Houſe, and make up ſome kind of Accomodation. <hi>Tarnaw,</hi> aban<g ref="char:EOLhyphen"/>doning himſelf unto tranſports of Joy, and of Thankſgiving, for the <hi>Dutcheſſes</hi> Kindneſs, he told her all that his heart could conceive of moſt tender.</p>
+            <p>This Converſation, on which it is not neceſſary that I ſhould ex<g ref="char:EOLhyphen"/>tend any further, had in fine ſuch Pleaſures and Delights, that none but very paſſionate perſons can be capable of conceiving: But in ano<g ref="char:EOLhyphen"/>ther place, there was at that time ſuch things preparing, as would pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent them from enjoying long their mutu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> happineſs.</p>
+            <p>The Lord Biſhop of <hi>Cracovia,</hi>
+               <pb n="91" facs="tcp:38561:52"/> alwayes in readineſs, and ever<g ref="char:EOLhyphen"/>more Curious, had not fail'd at his going from the <hi>Count</hi> of <hi>Tarnaw,</hi> to leave one of his Servants be<g ref="char:EOLhyphen"/>hind to watch him. The Equi<g ref="char:EOLhyphen"/>page in which he had found him ſo early, the Trouble which he had ſeen on his face, and all that he had ſaid to him, more than all the reſt, had raiſed divers Chimeras in his head, and he would glad<g ref="char:EOLhyphen"/>ly have known, what was his De<g ref="char:EOLhyphen"/>ſign; if it concerned not the <hi>Queen,</hi> who had taken the pains to o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>go him, by advertiſing ſo <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ely this Lover of all that he had to ſay to him from her. This Servant was ſubtle, and twixt Man and Man there is an entire Con<g ref="char:EOLhyphen"/>fidence, ſo that this had no great <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in informing himſelf, of what he would know. He learnt that the Count of <hi>Tarnaw</hi> had ſome broyl with the Count of <hi>Topor,</hi> and that he was to ſeek the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him at the <hi>Dutcheſs</hi> of <hi>Oſtrog.</hi>
+               <pb n="92" facs="tcp:38561:53"/> He ſaw them whiſper together in the Street, and had follow'd them to the Merchants door, where he left them, to go give his Maſter a juſt account of it, who failed not of rendring himſelf immediatly at Court, and of informing the King that there was a Quarrel betwixt the two <hi>Counts,</hi> on the account of the <hi>Dutcheſs</hi> of <hi>Oſtrog.</hi> The King, who loved <hi>Tarnaw</hi> exceedingly, and who did very much conſider the Family of the other (which was one of the moſt Ancient and moſt Illuſtrious of the Kingdom) did pre<g ref="char:EOLhyphen"/>ſently give order to prevent this miſchief; and the Lord Biſhop of <hi>Cracovia,</hi> being the man, which he thought the moſt proper to bee employed in ſuch a buſineſs, he ſent him, with a Captain of his Guards, and ſome Muſque<g ref="char:EOLhyphen"/>teers, to arreſt them both in the Kings Name. The Lord Biſhop did take upon him with delight this Commiſſion. They all go
+<pb n="93" facs="tcp:38561:53"/> together to this Merchants houſe, and without any noiſe, that they might not fail of their Aim, the Prelate gets all alone up to the Chamber, where he had been told thoſe Gentlemen were; he knocks, without ſaying a word; the door is opened, and he finds the Count <hi>Tarnaw,</hi> in conference with the other <hi>Cavalier,</hi> who were doubtleſs very much ſtart<g ref="char:EOLhyphen"/>ted to ſee him. You ſee, ſayes the Biſhop to <hi>Tarnaw,</hi> who was the firſt that he met with, how I am appointed all this day to trou<g ref="char:EOLhyphen"/>ble you; but I do acquit my ſelf more willingly of this Com<g ref="char:EOLhyphen"/>miſſion, then of that in the Morning. I come to arreſt you both in the Kings Name. To arreſt us, replyed the <hi>Count,</hi> more ſurpriſed then ever, and the Rea<g ref="char:EOLhyphen"/>ſon, I pray you? Of reaſon, re<g ref="char:EOLhyphen"/>plyed the Biſhop, you know there is ſufficiency. Deliver both your Swords, continued he, and give
+<pb n="94" facs="tcp:38561:54"/> me your Word, that you will not ſtir from hence, till all things be adjuſted, or I will cauſe the Captain of the Guards which the King has ſent, with twelve Muſ<g ref="char:EOLhyphen"/>queteers, to come up. The <hi>Count,</hi> who could not comprehend any thing in all that, fearing leaſt it ſhould be ſome deſign of the Queens on the Dutcheſs; Or that the Biſhop would revenge himſelf, for what he had ſaid to him in the Morning; he took him aſide, and deſired him not to re<g ref="char:EOLhyphen"/>duce things to the laſt extremity; that there was no need for him to deliver his Sword, becauſe that he had no quarrel; that he ſhould ſend back the Captain with the Souldiers; and let him retire home with his Companion, who would be oblig'd to him for it. The Biſhop anſwered, that it was the Kings Order, and that he was troubled to ſee him receive ſo ill all that came from him, and that
+<pb n="95" facs="tcp:38561:54"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> taken that Commiſſion upon him; but however, he do<g ref="char:EOLhyphen"/>ing his Duty, it was his to obey. I obey, replyed <hi>Tarnaw,</hi> with an angry voice, to an Order which has been given, but to inſult over me; here is, continued he, laying his hand on his Sword, that which ſhall give by Force, what you refuſe me, and in ſpight of you, of your Captain, and Muſ<g ref="char:EOLhyphen"/>queteers, I will retire home with this Cavalier. The Biſhop, though of a bold Spirit, knowing the Counts Valour, though that it was time to call the Men up, and did call them; Upon which the Count taking him by the hand, told him, ſhewing him the Dut<g ref="char:EOLhyphen"/>cheſs, who had not diſcovered her ſelf yet, That ſeeing he carry<g ref="char:EOLhyphen"/>ed things to that extremity, he ſhould give him an account of all that ſhould happen to that Perſon, which he was willing to leave in his Cuſtody. And pre<g ref="char:EOLhyphen"/>ſently
+<pb n="96" facs="tcp:38561:55"/> drawing his Sword, he met the Captain whom he found upon the Staires, and bid him to retire or that he would run his Sword through him. The Captain anſwer<g ref="char:EOLhyphen"/>ed him, that he had no order to offer him any Violence; but only to Arreſt him. You have ſuffi<g ref="char:EOLhyphen"/>ciently done your Duty, replyed the <hi>Count;</hi> return to the King; and tell him that within this hour I will be at the Caſtle, I give you my Word for it. The Officer, who thought that the Word of ſuch a Perſon, as was <hi>Count Tarnaw,</hi> was ſufficient, whom he would not diſ<g ref="char:EOLhyphen"/>oblige, retired with his men below Stairs, there to wait for the Biſhops orders</p>
+            <p>This Illuſtrious Prelate, was in a pleaſant Surpriſal, when the <hi>Count</hi> came again into the Chamber. The Dutcheſs, who did foreſee that all the Conſequences of this buſi<g ref="char:EOLhyphen"/>neſs would fall upon her, thought it would be the beſt way to ſup<g ref="char:EOLhyphen"/>preſs
+<pb n="97" facs="tcp:38561:55"/> it as well as ſhe could. She had drawn near to the Biſhop, while the <hi>Count</hi> was ſpeaking to the Captain, and making her ſelf known, ſhe had not had any occaſion for many words, to perſwade him to what ſhe deſired. He was ſo ſurpriſed at the ſight of her, that ſhe could not forbear laughing at it, notwithſtanding all the Diſorder ſhe was in. The Biſhop was not yet perfectly come to himſelf a<g ref="char:EOLhyphen"/>gain, when the <hi>Count</hi> returned to them. The <hi>Prelate</hi> asked pardon of them both, but eſpecially of the <hi>Dutcheſs:</hi> He informed them of the Miſtake, which had produced ſuch an Order from the King; &amp; how the Noiſe had been ſpread abroad that <hi>Count Tarnaw</hi> had ſome quar<g ref="char:EOLhyphen"/>rel with <hi>Count Topor,</hi> and that they had been met in the Street going to fight. The two Perſons concern'd not knowing that it was to the Biſhop they were obliged for all this Buſtle, all the buſineſs was turn'd
+<pb n="98" facs="tcp:38561:56"/> into Rallery; and <hi>Tarnaw</hi> made ſome Excuſes to the Biſhop, for his Raſhneſs towards him. They ſtood in need of him, that he might man<g ref="char:EOLhyphen"/>age the <hi>Dutcheſſes</hi> Reputation in this buſineſs: She was not wanting in Care and Ingenuity to recom<g ref="char:EOLhyphen"/>mend it to him. He was concern'd in it, as well as they; for he had had his ſhare of the Rallery, if it ſhould be known, that he was the miſtaken Perſon, who had firſt carryed the news of it to Court. But he could not diſpence himſelf from relating the thing as it was to the King, and the King could not fail of confiding it to the <hi>Queen,</hi> as of truth it happened.</p>
+            <p>Mean time the Biſhop, being re<g ref="char:EOLhyphen"/>tired, with his Followers, the <hi>Count</hi> reconducted the <hi>Dutcheſs</hi> home, and after that, retired to his own Houſe, where he found one of the <hi>Queens Pages,</hi> who had been waiting for him above an hour, with this Note.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="99" facs="tcp:38561:56"/>
+                  <p>
+                     <hi>I</hi> Am ſtill expecting the account of the reſolution You have taken. Are things ſo equal, that it merits ſuch long Conſideration? You cauſed a great deal of trouble yeſterday to Perſons to find you out. Where were you? You doubtleſs ſtood in need of Councel, and You were gone for it. How weak you are? You move pity in me, my poor <hi>Tarnaw!</hi> Be with me at ten; I have ſomething of grea<g ref="char:EOLhyphen"/>ter moment to impart. Peradventure that the <hi>Biſhop</hi> of <hi>Cracovia</hi> may have given You ſome Orders from me; They would be ſufficiently Juſt; But I muſt ſee You once more, to know what's to be done with you.</p>
+               </body>
+            </floatingText>
+            <p>He had ſcarce finiſhed the read<g ref="char:EOLhyphen"/>ing of that Note, when another <hi>Page</hi> brought him this.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>THere is a Noiſe abroad, that You have ſome quarrel with the <hi>Count Topor,</hi> &amp; that the <hi>Dutcheſs</hi> of
+<pb n="100" facs="tcp:38561:57"/> Oſtrog, <hi>is the cauſe of it. To be<g ref="char:EOLhyphen"/>lieve this, I muſt have other Wit<g ref="char:EOLhyphen"/>neſſes then the common Report. Is your blood no dearer to You? You deſerve not that one ſhould take care of it. I forbid You however to fight, for any body ſoever, and I charge You to come with the ſooneſt to give me an account Your ſelf of that diffe<g ref="char:EOLhyphen"/>rence. You know what You owe me; fear the effects of my Indignation.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>The <hi>Count</hi> having read this laſt Note alſo, told the <hi>Page,</hi> that he would go himſelf, to carry the Anſwer to the <hi>Queen,</hi> and that he would be with her in a quarter of an hours time.</p>
+            <p>He ſaw the neceſſity there was for him to go to the Caſtle both to lay the Noiſe of this pretended Combat, and to prevent by his preſence, the raiſing of new ſto<g ref="char:EOLhyphen"/>ries; as of truth there were many of divers ſorts ſpread abroad al<g ref="char:EOLhyphen"/>ready.</p>
+            <pb n="101" facs="tcp:38561:57"/>
+            <p>The King, having learn'd the whole ſtory from the Biſhop, was pleaſed with Laughing at it, and to ſay, That he had never ſeen any honeſt Woman have ſo much Gal<g ref="char:EOLhyphen"/>lantry as the <hi>Dutcheſs</hi> of <hi>Oſtrog</hi> had: And preſently going to the Queens Apartment, he failed not to give her a fine relation of all that Adventure. If <hi>Tarnaw</hi> had not been concerned, ſhe had doubt<g ref="char:EOLhyphen"/>leſs been pleaſed with it; but ſhe had too great a Share in this, to laugh at it as much as the thing deſerved. The Satisfaction ſhe had in it was, to tell it to every body, becauſe in ſo doing ſhe knew the Wrong and Spight, which ſhe ſhould do the <hi>Dutcheſs.</hi> So that it preſently became pub<g ref="char:EOLhyphen"/>lick; to which every one added Circumſtances according to his own fancy; for no body did know the true Cauſe of the <hi>Dutcheſſes</hi> Diſguiſe; nor what was the <hi>Count</hi> of <hi>Tarnaws</hi> deſign, when he had
+<pb n="102" facs="tcp:38561:58"/> riſen ſo early in the Morning, to conduct her to the <hi>Merchants;</hi> he that could ſee her day and night at her own Houſe. It was eaſy to perceive, that there was ſome Myſtery in the buſineſs; and that was the Myſtery, which gave oc<g ref="char:EOLhyphen"/>caſion for all thoſe diſcourſes, in which the Biſhop had his ſhare.</p>
+            <p>
+               <hi>Tarnaw</hi> having rendered him<g ref="char:EOLhyphen"/>ſelf at the Caſtle, the firſt that he found there was <hi>Count Topor,</hi> who coming up to him, with a ſmiling Countenance, ſaid, <hi>That more honour had been done him that day, than he merited, in being thought capable of giving any Jea<g ref="char:EOLhyphen"/>louſy to ſuch a man as he, and bold enough to meaſure his Sword with him. Count Tarnaw</hi> embracing him, anſwered with the like Ayr, <hi>That he had no deſire to have a Love-quar<g ref="char:EOLhyphen"/>rel with a Toung</hi> Cavalier <hi>ſo well made as he; but if that by ill for<g ref="char:EOLhyphen"/>tune, there ſhould ever be any ſuch thing, on the</hi> Dutcheſſes <hi>account,
+<pb n="103" facs="tcp:38561:58"/> He intreated him that ſhe might decide the Difference.</hi> Ending theſe words he left him, and paſſed into the Queens Apartment, where ſhe who was wont to convey him into her Chamber, came to tell him, that he could not ſee her for divers Reaſons. The <hi>Count,</hi> who was going to render this viſit, as a Crimi<g ref="char:EOLhyphen"/>nal would appear before his Judges, without inquiring into the Reaſons, nor making any further Inſtances to be admitted, in that he came upon the Queens immediate Order, He only bowed to the Lady, and returned home; whence he ſtirred not all the reſt of the day, having need of ſome little Reſt, after the night that he had paſſed.</p>
+            <p>Mean time the Noiſe of this bu<g ref="char:EOLhyphen"/>ſineſs, that had paſſed from the Court to the City, was gone from thence to the Country alſo, and at laſt unto the Duke of <hi>Oſtrogs</hi> Ears. The News ſurpriſed him; he became upon it very melancho<g ref="char:EOLhyphen"/>lick
+<pb n="104" facs="tcp:38561:59"/> and fretful. He did perceive that the <hi>Dutcheſs</hi> had not carryed her Revenge very long; and if this was the firſt Folly that ſhe had committed, her temper had had need of her Vertue, to be wiſe. Nevertheleſs, having his mind wholly taken up with the Queens cruelties towards him, the Joy which he had at her ſhare in this buſineſs did comfort him as to all the reſt; and I believe that he would not have been no Cuckold, conſidering the Satisfaction he received, from that blinded Princeſs being deceiv- by a man, who ſo little deſerved to be preferred before him. He came to Town again, at leaſt to triumph on the Queens Account, though he was a Looſer on that of his Wifes. He appeared very angry at firſt againſt the Dutcheſs; with biting Ralleries, harſh Uſage, and ſevere Rebukes. The <hi>Dutcheſs</hi> took it patiently; and did endea<g ref="char:EOLhyphen"/>vour to juſtifie the Righteouſneſs
+<pb n="105" facs="tcp:38561:59"/> of her Intentions; but finding that the Duke continued treating of her ill; ſhe flew out as well as he, and began to reproach him: As if it became him, whoſe manifeſt Trea<g ref="char:EOLhyphen"/>chery was not to be regarded, to inſult over a Woman, whom meer Chance, and bare Appearances could render guilty before men. So that things being almoſt equal on both ſides, there was mention made of an Accomodation, and the Prin<g ref="char:EOLhyphen"/>cipal Article was; That for the mu<g ref="char:EOLhyphen"/>tual Union, the Duke ſhould re<g ref="char:EOLhyphen"/>nounce all the Queens Gallantry, and ſhould no more ſee her in pri<g ref="char:EOLhyphen"/>vate; And that the <hi>Dutcheſs</hi> ſhould do the ſame with Count <hi>Tarnaw.</hi> I believe that at that preſent their Intentions might be good; But in matters of Love there is no for<g ref="char:EOLhyphen"/>ſwearing of any thing. Swear, not to ſee any more that which one Loves? is an Oath, which even gives a mind to do it; and but too many of thoſe Perjured Perſons are daily ſeen.</p>
+            <pb n="106" facs="tcp:38561:60"/>
+            <p>The <hi>Queen</hi> was ſtartled at the <hi>Counts</hi> Indifferency. She thouht that the Refuſal, which he had met with at the Chamber door, would have whetted the more his deſires of ſeeing her; that he would return to the Charge again; that he would employ ſome of his Friends towards her; or at leaſt that he would write to her to juſtify himſelf, or to beg her par<g ref="char:EOLhyphen"/>don; but ſhe ſaw none of all this; and the whole day paſt away with<g ref="char:EOLhyphen"/>out hearing any thing from him. Her Soul was more moved at this Indifferency, than at all that had paſ<g ref="char:EOLhyphen"/>ſed beſides; and ſhe did call this the height of Perfidiouſneſs. She could not forbear the next day from ſending to him; but he was gone out very Early on hunting.</p>
+            <p>It was an Exerciſe that the <hi>Count</hi> lov'd very much, but he had not taken that pretence, but to be ſome days out of Town, on a Let<g ref="char:EOLhyphen"/>ter
+<pb n="107" facs="tcp:38561:60"/> which the <hi>Dutcheſs</hi> had writ to to him, as follows.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>THE War has not Lasted long; at last Peace is concluded; But on ſuch conditions, as are difficult to keep on both ſides, as we both have been ready to promiſe them: Which is, That we abſolutely renounce all that which had caus'd our Dis-uni<g ref="char:EOLhyphen"/>on. That is to ſay, in my ſenſe, all that is moſt Charming in the World, which is the pleaſure of ſeeing that which one Loves. I require but three dayes abſence from you, to bring ſome to Compoſition, who will be oblig'd, at last, to agree to all that ſhall be required. I would only have the ſatisfaction of not being the firſt in Breaking of the Treaty. Let me know where you will bee, and let me hear from you at least twice a day.</p>
+               </body>
+            </floatingText>
+            <p>The Queen could not digeſt her Anger for the <hi>Counts</hi> proceedings ſo contrary to her deſires. She fell into an extreem Trouble of mind upon it; But her Reſen<g ref="char:EOLhyphen"/>ment
+<pb n="108" facs="tcp:38561:61"/> was ſtill more bent on the <hi>Dutcheſs,</hi> than on that Lover. She conſidered her as the only Cauſe of all the Croſſes that ſhe had met with, ſince her coming into that Kingdom, and ſhe was reſolved to be revenged, at what rate ſoever.</p>
+            <p>She knew that the <hi>Duke</hi> was returned from the Country, and that the King had ſent for him; ſo that ſhe gave order, that when he ſhould come to Court, he ſhould be told that ſhe would ſpeak with him. <hi>Sigiſmond,</hi> who knew as well as the reſt of the Kingdom, that the Duke of <hi>Ostrog,</hi> was a man of Courage, and of Capaci<g ref="char:EOLhyphen"/>ty to let fly his Reſentments far and near, in reſpect of what had paſ<g ref="char:EOLhyphen"/>ſed betwixt <hi>Count Tarnaw</hi> and his Wife: he thought that in Prudence he ought to prevent the Conſe<g ref="char:EOLhyphen"/>quences; not doubting but that all his Court would take partyes with thoſe two Lords, whereby great diſorders might follow. He learn'd
+<pb n="109" facs="tcp:38561:61"/> that the Duke was return'd to the City; &amp; he eaſily imagin'd that it was to that purpoſe. He ſent him word that he would ſpeak with him. But the whole Court was very buſy, how this matter ſhould be made up; and in truth thoſe of this nature are very difficult to be reconciled. The Duke went to the Caſtle, and finding that per<g ref="char:EOLhyphen"/>ſons were very much concern'd, eſpecially the King, in finding out of Terms, and Reaſons, wherewith to make him bear the better the new Title with which his Wife had honoured him; He anticipa<g ref="char:EOLhyphen"/>ted all that could be ſaid to him. What need is there of diſguiſing to me the matter, I know that if I am not a Cuckold before Hea<g ref="char:EOLhyphen"/>ven, I am ſo before men; but I know alſo, that we muſt fit our ſelves to the Cuſtom of divers ages, and to conſolate my ſelf of my affliction, I have but too many examples before my Eyes: I aym
+<pb n="110" facs="tcp:38561:62"/> not at <hi>Count Tarnaws</hi> life; all his Blood would not make the <hi>Dutcheſs</hi> the honeſter Woman; and ſhould my Honour depend on that only, I well ſee that there would be no Return of it: All that I can do is, to wait till he be Married, to ren<g ref="char:EOLhyphen"/>der him the Change. The buſi<g ref="char:EOLhyphen"/>neſs being thus turn'd into Rallery, the King was over-joy'd to ſee him take that Courſe, which he did ſecond with divers ſolid reaſons, giving a great deal of Praiſe unto the Dukes Conduct. That Acti<g ref="char:EOLhyphen"/>on was after that as an happy Plank for all thoſe that found themſelves in the number of the betrayed Husbands; there being nothing indeed more ridiculous in the World, than to caſt ones ſelf away for being diſhonoured by a Woman. Give me thoſe Wiſe and Prudent Perſons, as was the Duke, who on all other ac<g ref="char:EOLhyphen"/>counts, was an Example of Val<g ref="char:EOLhyphen"/>lour, as well as of Cuckoldſhip here.</p>
+            <pb n="111" facs="tcp:38561:62"/>
+            <p>He going from the King, a Gen<g ref="char:EOLhyphen"/>tleman brought him the order from the Queen. He preſently thought of the promiſe which he had made the <hi>Dutcheſs;</hi> but he was to obey, or rather, he was to yield unto that Byaſs, which carried him that way. He did appear ſo conſtrain<g ref="char:EOLhyphen"/>ed, and ſo perplexed at the fight of that Princeſs, that ſhe could not reſtrain from Laughing; and let<g ref="char:EOLhyphen"/>ting her ſelf go unto her uſual Hu<g ref="char:EOLhyphen"/>mour, which was free, and full of Gayety: Well my Lord Duke, ſaid ſhe, have you not a very ho<g ref="char:EOLhyphen"/>neſt Wife, and is not <hi>Tarnaw</hi> an undoubted Friend? Friendſhip, Madam, ſaid he, is Subject unto ſuch Treacheries; but the <hi>Count</hi> is yet more guilty in point of Love; he will be ſooner pardoned for having betrayed a Friend, continu'd he, then the faireſt Princeſs in the World. The Queen anſwered him Coldly, That ſhe did take no further care of that buſineſs, than
+<pb n="112" facs="tcp:38561:63"/> ſo much as would make her Sport. If I was concern'd in it, continu'd ſhe, I ſhould think the Perſons ſufficiently puniſhed with the Con<g ref="char:EOLhyphen"/>fuſion it hath brought upon them. But how have you reſented the buſineſs? And how do you carry your ſelf towards <hi>Tarnaw?</hi> The Duke gave her to underſtand, that he was not a man that would take ſo much to heart, a buſineſs of which he was not the Maſter; that which way ſo ever it had come to paſs, he thought that it fell to his Wifes ſhare, to take upon her all the Blame of the adventure, ſeeing that it was ſhe that had committed the Fault: That as to the <hi>Count,</hi> he expected from Time and Oppor<g ref="char:EOLhyphen"/>tunity ſome means to revenge him<g ref="char:EOLhyphen"/>ſelf, like a man of Honour, but not as a declared Enemy. The Queen having ſaid ſome pleaſant things on his Maximes which ſhe well approv'd of, the Duke re<g ref="char:EOLunhyphen"/>plyed, That he had Copyed them
+<pb n="113" facs="tcp:38561:63"/> out of the Practice of the great<g ref="char:EOLhyphen"/>eſt men in Antiquity; and that he did not uſe, in things, of Conſe<g ref="char:EOLhyphen"/>quence, to regulate himſelf by the common Opinion. The Queen, who was deſirous to fall upon that which did concern her ſelf the moſt, reply'd, That all that was very well; but that howſoever it was probable, he would not permit <hi>Tarnaw</hi> to continue having the ſame Aſſiduities with the <hi>Dutcheſs:</hi> Why not? Madam, replyed the Duke, who preſently perceived, that this was that thing the Queen did wiſh for. The miſcheif is already done, continu'd he, and it would be a great Folly in me to be ſo cautious, where there is no Remedy. That ſhould have been done in time and ſeaſon. What would you endure, ſaid the Queen, with ſome trouble,— I ſhall not only endure, ſaid he interrupting her, that he ſhould do as he has formerly done, but
+<pb n="114" facs="tcp:38561:64"/> I will go inſtantly from hence to ſeek him, and intreat him ſo to do. That is to be very Complai<g ref="char:EOLhyphen"/>ſant, replied ſhe, and this may ve<g ref="char:EOLhyphen"/>ry well be called, to be a Com<g ref="char:EOLhyphen"/>modious Man. But to let you ſee, continued ſhe, the little Con<g ref="char:EOLhyphen"/>cern I take in it: Know that I am pleaſed at your going to ſee the <hi>Count;</hi> and I do Order you, at the ſame time to bring him here to me. You may think it may be, that I have a mind he ſhould ask me Pardon, continued ſhe, and that we ſhould be reconciled. Your example might be followed, and peradventure that I ſhould not find it difficult to imitate you, if I had no other cauſe of Com<g ref="char:EOLhyphen"/>plaint againſt him; but know that he has offended me by a more ſen<g ref="char:EOLhyphen"/>ſible way, than that the of <hi>Dutcheſs;</hi> and that it is three dayes ſince I have given Order unto the Biſhop of <hi>Cracovia,</hi> to tell him from me, that he ſhould never more ap<g ref="char:EOLhyphen"/>pear
+<pb n="115" facs="tcp:38561:64"/> before my preſence. The Duke both ſurpriſed and rejoyced at this news, asked the Queen, if it were poſſible that the Count ſhould give her any cauſe of treat<g ref="char:EOLhyphen"/>ing him ſo ill? Yes, replyed ſhe, and were it not for the Noiſe that it might make in the World, I had ſpoken of it to the King. But I cannot better puniſh him, conti<g ref="char:EOLhyphen"/>nued ſhe, than in confounding of him before you, and in reproach<g ref="char:EOLhyphen"/>ing his Unworthineſs my ſelf in perſon. At this propoſition the Duke was in his Dumps, and could have wiſhed that the Queen had perſiſted in her firſt Reſolution, or at leaſt that ſhe had charged ſome other with that Commiſſion. But there was no way to avoyd it; ſhe would abſolutely have it, that it ſhould be him that ſhould bring to her the Count, and that he ſhould be Witneſs, after what man<g ref="char:EOLhyphen"/>ner ſhe would treat him. The Duke was too clear-ſighted, and
+<pb n="116" facs="tcp:38561:65"/> did know the Queen too well, to fall into that Trap. But that Prin<g ref="char:EOLhyphen"/>ceſſes Charmes did ſo dazle him, that if his life had been at ſtake, he could not refuſe what ſhe re<g ref="char:EOLhyphen"/>quired of him. This is cruel, <hi>Ma<g ref="char:EOLhyphen"/>dam,</hi> ſaid he, thus to exact from my obedience ſo hard a Task: I ſhall do it however, continued he, ſeeing that you command it. But the Repentance of it may coſt me my Life. Upon this he took leave of the <hi>Queen,</hi> who promiſed him, to ſet this Conſtraint, which he did to himſelf for her ſake, upon account.</p>
+            <p>Count <hi>Topor,</hi> very proud of the Honour that this noiſe had done him, of being in love with the <hi>Dutcheſs,</hi> had a mind to become ſo in good earneſt: He undertook to viſit her more frequently then before. But knowing that a Paſ<g ref="char:EOLhyphen"/>ſion according to Form, ought to begin by a Declaration, he was divers dayes in meditating one
+<pb n="117" facs="tcp:38561:65"/> which might pleaſe his Miſtreſs. They were fine words which he compoſed, afterwards writ, but which he did blot out as often as he writ them; and when he was reſolved, and had agreed upon thoſe which he would uſe, he had forgot all again ſo ſoon as he came before the <hi>Dutcheſs;</hi> ſo that he was forced to ſtand to thoſe which the Publick had made for him.</p>
+            <p>The Dutcheſs could eaſily per<g ref="char:EOLhyphen"/>ceive a change both in the Humour and Manners of the Count. She might have gueſſed at his deſign; and at ſome other time ſhe might have diverted her ſelf with it. But at that time ſhe was not capable of any Pleaſure; and her mind wholly taken up with <hi>Tarnaws</hi> concerns, could not find time to examine the baſhful ſighs of Young <hi>Topor.</hi> He kept her Company. He had a graceful ſweet Diſpoſi<g ref="char:EOLhyphen"/>tion, which in that ſeat that her ſoul was in then, did better pleaſe
+<pb n="118" facs="tcp:38561:66"/> her, than all the Entertainments of the moſt refined Wits, that daily viſited her. But that which made her the more to conſider him, was, that he had been very uſeful to her, in recalling back the wavering Con<g ref="char:EOLhyphen"/>ſtancy of weak <hi>Tarnaw;</hi> and that he might yet ſerve her in other deſignes.</p>
+            <p>The Count <hi>Topor,</hi> had a good Acceſs with the Queen; not ſo far as to be in the Number of the Selected, which did take up all the cares and pleaſures of that Princeſs: For ſhe would have none but ſuch men as were ready perfected, and not ſuch as were yet to be mode<g ref="char:EOLhyphen"/>liſed: And thoſe of Count <hi>Topors</hi> age, ſhe would ſend to the Dut<g ref="char:EOLhyphen"/>cheſs, as to the School of Tender<g ref="char:EOLhyphen"/>neſs; but all that had the appear<g ref="char:EOLhyphen"/>ance of a well-made and accom<g ref="char:EOLhyphen"/>pliſhed man, had acceſs in her Ap<g ref="char:EOLhyphen"/>partment. And therefore <hi>Topor</hi> might pretend to a good Recepti<g ref="char:EOLhyphen"/>on there. For he was a very
+<pb n="119" facs="tcp:38561:66"/> beautiful Youth; and nothing was more regular than his Perſon.</p>
+            <p>The <hi>Dutcheſs,</hi> that went no longer to Court, thought that ſhe could not find a man more fit than that Young <hi>Count,</hi> by whom to be informed of all the proceedings of her Hus<g ref="char:EOLhyphen"/>band towards the Queen, and that in that diſpoſition of heart, which he had for her, he would embrace with Zeal that occaſion of ſerving her. As of truth ſhe had no ſoon<g ref="char:EOLhyphen"/>ner propoſed the buſineſs to him, but he promiſed to have an Eye on all the actions of the Duke, and that there ſhould paſs nothing in any thing that ſhe had a deſire to know, but he would give her a moſt faithful Account of it. The Young <hi>Count</hi> was quick-witted, and very dextrous; and that Com<g ref="char:EOLhyphen"/>miſſion ſuting with his Genius, there was no fear, that any thing ſhould eſcape his Diligence.</p>
+            <p>The Duke had no ſooner been with the Queen, but that the <hi>Dut<g ref="char:EOLhyphen"/>cheſs</hi>
+               <pb n="120" facs="tcp:38561:67"/> was informed by her young Spye, of that Viſit, and of the long Conference which he had had with that Princeſs; and that preſently after he had taken Horſe, to go ſeek the <hi>Count</hi> of <hi>Tarnaw.</hi> Theſe news did much alarum the <hi>Dutcheſs;</hi> ſhe feared it ſhould be ſome deſign of a Combat; though ſhe had been told, that the King had taken care to prevent that miſchief. But for the Duke at his going from the Queen, who could not but be vex<g ref="char:EOLhyphen"/>ed againſt <hi>Tarnaw,</hi> to immediat<g ref="char:EOLhyphen"/>ly go to ſeek him! that could not but foretel Evil. In the trouble which that cauſed her, ſhe was a thouſand times on the point of running her ſelf after the Duke; when at laſt this Note was brought to her.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>I</hi> Have newly received a viſit from the Duke. And you may imagine how great was my Surpriſal; But that which will amaze you more, will be to learn, that he is come here, to
+<pb n="121" facs="tcp:38561:67"/> bring me to the Queen. I obey, but fear you nothing; for this is but an ill way to my heart; and at my com<g ref="char:EOLhyphen"/>ing from thence, I am more yours than ever.</p>
+                  <closer>
+                     <signed>Tarnaw.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This Note inſtead of compoſ<g ref="char:EOLhyphen"/>ing her mind, did caſt her into a thouſand times more terrible Per<g ref="char:EOLhyphen"/>plexities. She had almoſt rather that the Duke and Count had fought, than to hear of that ten<g ref="char:EOLhyphen"/>der Combat which was going to be betwixt her Lover, and her Rival. She could not forgive the <hi>Count,</hi> for expoſing himſelf to it. It was as to her an abſolute Treache<g ref="char:EOLhyphen"/>ry; and whatever ſhould happen of it, ſhe was reſolved to renounce for ever, all that Tenderneſs which ſhe had for him. To which did follow ſuch Impatiencies and Vexations, as none but a woman can well conceive.</p>
+            <pb n="122" facs="tcp:38561:68"/>
+            <p>It is confeſſed, that the <hi>Count</hi> might very well have defended himſelf, from obeying an Or<g ref="char:EOLhyphen"/>der, which was not delivered to him, with that Authority, as did ſpeak, that the Queen would ne<g ref="char:EOLhyphen"/>ceſſarily have it obey'd. The Duke was too much Intereſted to acquit himſelf of his Commiſſion with Candor. But a Queen, who did ſend his very Rival to ſee after him; a Queen ſo Charming as that was, had not need to make uſe of an abſolute Authority. There was a kind of Ambition in obey<g ref="char:EOLhyphen"/>ing her, ſuch as could not eaſily be paſſed by, by ſuch a Perſon as was <hi>Count Tarnaw.</hi> Not but that he did hope, in ſpight of all the dangers he was to run through, to preſerve his heart wholly for the Dutcheſs, as he had writ to her; but there was too much Pre<g ref="char:EOLhyphen"/>ſumption in the very writing of it. That heart had once already yiel<g ref="char:EOLhyphen"/>ded it ſelf, and was not grown ſtronger ſince that time.</p>
+            <pb n="123" facs="tcp:38561:68"/>
+            <p>He came then into the Queens Preſence, who excellently well act<g ref="char:EOLhyphen"/>ed the part of an offended Princeſs. The Duke would have withdrawn, but ſhe ſtayed him to be Specta<g ref="char:EOLhyphen"/>tor of the ſcene, as ſhe had pro<g ref="char:EOLhyphen"/>miſed him. There was nothing but Slights and Scorns, and even Inju<g ref="char:EOLhyphen"/>ryes, for the <hi>Count;</hi> who well knew that he but too well de<g ref="char:EOLhyphen"/>ſerv'd them, both in reſpect to the <hi>Queen,</hi> and in reſpect to the Duke; but finding, that he was not charg'd with Particulars, and that he was taxed but in General, becauſe the Queen would not ſpe<g ref="char:EOLhyphen"/>cify before the Duke the faults he had committed; he had ſo much Inſolency, as to tell the Queen, that he knew not of what ſhe could accuſe him; and did in a kind of malicious way preſs her to declare his Compliſſes and Accuſers. At which that Princeſs being more en<g ref="char:EOLhyphen"/>raged than ever, ſhe Baniſh'd him from her preſence.</p>
+            <pb n="124" facs="tcp:38561:69"/>
+            <p>The Duke, the too happy Duke, charmed with the ſucceſs of his Journey, did by an exceſs of Gene<g ref="char:EOLhyphen"/>roſity, implore the Queens Grace, and demand pardon for <hi>Tarnaw;</hi> but that incenſed Princeſs told him, that ſhe would never ſee him more; and that ſhe would have him to carry that Order from her to him. The Duke anſwer'd her with an humble Voice, yet ſuch as did ex<g ref="char:EOLhyphen"/>preſs the joy of his heart, That he was ready to obey her; but that it was a very nice part for a Rival; that it was very probable the <hi>Count</hi> would not give any great Faith unto that which he ſhould ſay to him, if ſhe had not the Bounty to give him that Or<g ref="char:EOLhyphen"/>der in Writing; which the Queen, who was allmoſt dead with Impa<g ref="char:EOLhyphen"/>tiency of being rid of him, did grant preſently. After which adding ſome little Kindneſs unto the Joyes which the Duke already felt, ſhe did ſo raiſe his Spirits, that he ſcarce felt himſelf. He at laſt tore him<g ref="char:EOLhyphen"/>ſelf
+<pb n="125" facs="tcp:38561:69"/> from ſo many Inchantments, quite loſt with Love. But he was no ſooner at the Caſtle gate, but he found he had left upon the Table the Queens Order; ſo that he was forc'd to return, for it was the moſt eſſential piece of all his Commiſſion. He entered the Cham<g ref="char:EOLhyphen"/>ber ſomewhat abruptly; and there he finds the <hi>Count Tarnaw</hi> with that Perfidious Princeſs. It is ea<g ref="char:EOLhyphen"/>ſy to imagine how great was his Amazement; but not the Vexation, Rage, and Fury of his Soul! <hi>Oh! Heavens,</hi> cry'd he aloud, <hi>is it poſſi<g ref="char:EOLhyphen"/>ble I ſhould be thus play'd upon!</hi> The Queen, who was extreamly ſur<g ref="char:EOLhyphen"/>priſed to ſee him return, paſſing on the ſuddain, as ſhe us'd to do, from the Surpriſal unto the Addreſs of the adventure, did let her ſelf looſe, to ſuch breaking forth of Laughter, as reduc'd the Miſerable Duke to diſpair; who looking on her with Eyes ſparkling with fury, went out, without any more words.</p>
+            <pb n="126" facs="tcp:38561:70"/>
+            <p>All thoſe devouring Poiſons ac<g ref="char:EOLhyphen"/>companying him home, there he found the additional Grief of a Wife almoſt in as ill a humour as him<g ref="char:EOLhyphen"/>ſelf, which gave him but a very could Reception. They met by accident in the ſame Chamber; where it may be ſaid they ſaw one another without looking: At leaſt they were there long enough together without ſpeaking. Mean time they were not ſo wholly ta<g ref="char:EOLhyphen"/>ken up with their own Vexations, but that they ſought to gueſs at one anothers Troubles. The Duke did miſtruſt that his Dear Spouſe had already heard of the Viſit which he had rendred to the Queen; which doubtleſs was the Cauſe of her being out of humour: But the Dutcheſs was more trou<g ref="char:EOLhyphen"/>bled than he, in unravelling the true cauſe of her Husbands ſorrow; and Women being naturally more Curious than Men, ſhe could with<g ref="char:EOLhyphen"/>hold no longer the deſires ſhe had
+<pb n="127" facs="tcp:38561:70"/> of informing her ſelf of a thouſand Suſpicions. She was the firſt there<g ref="char:EOLhyphen"/>fore which broke ſilence, in ask<g ref="char:EOLhyphen"/>ing the Duke, Whence proceeded ſome certain Trouble which ſhe ſaw ſpread over his face; he who ought to have Cauſe of being the moſt contented of all mortals, af<g ref="char:EOLhyphen"/>ter the tender and obliging Recep<g ref="char:EOLhyphen"/>tion which he had met with at Court. <hi>It is true,</hi> replyed the Duke coldly, <hi>that if my happineſs conſiſt<g ref="char:EOLhyphen"/>ed only in a favourable Reception, I ſhould have cauſe of being ſatiſ<g ref="char:EOLhyphen"/>fied. What then</hi> (interrupted the Dutcheſs) <hi>Is it that ſuch an heart as yours, requires ſomething further than to have a Rival out of favour, and to be kindly received by the Object it loves? Confeſs the truth</hi> (continued She,) <hi>You would appear troubled before me, while you glory in your Soul of your Conqueſt. Do not force your ſelf,</hi> (added She) <hi>I know all, I know how far your acknowledg<g ref="char:EOLhyphen"/>ments have gone, in requitall of thoſe
+<pb n="128" facs="tcp:38561:71"/> Kindneſſes you have received. They have obliged you to take upon you the care of bringing back your Rival. I think it is much; and that you must needs fear but little his ſucceſs, or that you are very complaiſant in things of ſuch great nicetyes.</hi> The Duke ſurpris'd, that his Wife was al<g ref="char:EOLhyphen"/>ready ſo well informed of what had paſs'd, did feel an increaſe of Sorrow, and Confuſion, by all ſhe ſaid to him, which were as ſo ma<g ref="char:EOLhyphen"/>ny ſevere Hints upon all the cruel Adventures of that day. He made no anſwer, which made her preſs him more yet; and asked him, <hi>whence proceeded his ſilence? Whether it was that ſhe was deceived and did falſely accuſe him? No Madam,</hi> (replyed the Duke) <hi>But ſuch pains have been taken to inſtruct you ſo well of things, that I think it not neceſſary to tell you more. I ſhould be better pleas'd yet</hi> (reply'd the Dutcheſs) <hi>to learn them from your ſelf; eſpecially</hi> (continued ſhe)
+<pb n="129" facs="tcp:38561:71"/> 
+               <hi>in what concernes your Negotiation, whether you have been well reward<g ref="char:EOLhyphen"/>ed for your paines; whether your Rival has been received, as you could wiſh; whether—Ay, Ma<g ref="char:EOLhyphen"/>dam, that's it,</hi> interrupted the Duke, riſing, <hi>which does concern you the moſt; and I am willing to give you that ſatisfaction: Know then,</hi> con<g ref="char:EOLhyphen"/>tinued he, in a paſſionate tone, <hi>that the</hi> Count <hi>is the happieſt of all men. I have been the Queens property 'tis true, and that was not according to her promiſe; but to my ſorrow, and doubtleſs for yours alſo,</hi> added he going off, Tarnaw <hi>is beloved, as much as he loves, and we are both abuſed.</hi>
+            </p>
+            <p>Though the Dutcheſs might have expected ſome ſuch thing, and that ſhe had not over much cauſe, nei<g ref="char:EOLhyphen"/>ther to believe ſo concern'd a Lover as was her Husband; She could not, ſeeing ſo much probability, but be very much grieved at it, and yet pleaſed at his retiring,
+<pb n="130" facs="tcp:38561:72"/> that he might not perceive the Diſ<g ref="char:EOLhyphen"/>orders of her Soul.</p>
+            <p>In this interval enters Count <hi>Topor,</hi> in continuance of his ſer<g ref="char:EOLhyphen"/>vices unto the Dutcheſs; he was come to tell her, how that the Duke accompanied with Count <hi>Tarnaw,</hi> had been that day with the <hi>Queen;</hi> and moreover that this laſt, being gone out firſt, one of the Women, had retained him to bring him back to the <hi>Queen</hi> the back way, while the Duke went out; adding, that he knew no fur<g ref="char:EOLhyphen"/>ther of the buſineſs. But that the Duke being returned again to the <hi>Queen,</hi> he had come forth preſent<g ref="char:EOLhyphen"/>ly again, with a very diſſatisfied countenance. As for the Count he was there ſtill, when he came to bring her the News.</p>
+            <p>The <hi>Dutcheſs</hi> being ſenſleſs and raving, during the recital of this cruel ſtory, remained alſo ſome time after without ſpeaking to the young <hi>Count.</hi> Who perceiving that the
+<pb n="131" facs="tcp:38561:72"/> advices, which he took ſuch pains to give her, were not very pleaſ<g ref="char:EOLhyphen"/>ing, did retire himſelf with begg<g ref="char:EOLhyphen"/>ing pardon, for ſerving her better peradventure then ſhe deſired to be: <hi>No, My Lord, You deceive your ſelf,</hi> ſaid the Dutcheſs, <hi>I confeſs that there is no great ſatisfaction to learn how one is betrayed; but with me it is a thouſand times more cru<g ref="char:EOLhyphen"/>el to be ſo, and not to know it; ſo that your cares and troubles are not uſeleſs to me, nor ſhall they remain without acknowledgments. You muſt make an end</hi> Count, continued ſhe ſighing, <hi>and if you have any tenderneſs for me, as you expreſs of late, you muſt ayde me in overcoming the only Obſtacle that is to your deſires. I have naturally ſome inclinations for you, and you are in a way of expect<g ref="char:EOLhyphen"/>ing all from me.</hi> The <hi>Count,</hi> to whom ſo much had never been ſaid before, at leaſt by the Dutcheſs, for whom he had one of thoſe paſſions of <hi>Romances,</hi> which are all
+<pb n="132" facs="tcp:38561:73"/> fierceneſs and ſighs, caſts himſelf at her feet in the tendereſt manner imaginable, thinking that there was no more but that to do, to make an end of ſoftening his Mrs. heart. But ſhe cauſed him to riſe, and told him, <q>That ſhe would have other kind of proofs of his Love than thoſe. That he could not but know, that ſhe loved Count <hi>Tarnaw;</hi> but that ſeeing ſhe was betrayed by him, ſhe would be revenged.</q> Brave <hi>Topor</hi> did inſtantly offer his Arme and his Life. <hi>No,</hi> replyed ſhe ſmilingly, <hi>It is neither your Blood or your Valour that I will put to tryal; Only find out a way to make me ſee with my own eyes, how I am betrayed; and my revenge is ready, without your being in the leaſt con<g ref="char:EOLhyphen"/>cerned any further in it. As to the Duke,</hi> continued ſhe, <hi>I am fully ſa<g ref="char:EOLhyphen"/>tisfied, and I have no more meaſures to obſerve with him; but for the</hi> Count, <hi>I confeſs that be it a weak<g ref="char:EOLhyphen"/>neſs
+<pb n="133" facs="tcp:38561:73"/> of mind, or of heart, I have need to be better informed, not to doubt any further. I muſt convince my heart of it with my own eyes, that I may have the Power to tear it from him; after which it ſhall be wholly yours.</hi> This Lover, that on this account would have attempted all the moſt difficult things in the World, pro<g ref="char:EOLhyphen"/>miſed boldly all to the <hi>Dutcheſs,</hi> as if ſhe needed but to ſpeak, and the buſineſs was done. But ſhe whoſe mind was moulded quite a<g ref="char:EOLhyphen"/>nother way, and who knew how many difficulties would be met with, in her deſignes, permitted not her ſelf to be overtaken with the vain Ideas of the Young <hi>Count.</hi> She would conduct this buſineſs after her one way, and ſaid to <hi>Topor, That he ſhould only go to the Caſtle, to learn News of</hi> Count Tarnaw, <hi>and ſo return to her.</hi>
+            </p>
+            <p>He was ſcarce gone from her, when the Biſhop of <hi>Cracovia</hi> en<g ref="char:EOLhyphen"/>ter'd, who was come to ſee the
+<pb n="134" facs="tcp:38561:74"/> Duke. The pretence of his viſit was taken, on the buſineſs which had paſſed betwixt Count <hi>Tarnaw</hi> and the Dutcheſs. This <hi>Prelate</hi> had had ſuch a conſiderable ſhare in it, as did invite him to come and juſti<g ref="char:EOLhyphen"/>fie himſelf towards the Husband, as to the Noiſe it had made: But his deſignes did reach farther. They tended in fortifying the Duke in the Reſentments which he ought to have of ſuch an Affront; and in offering him a means of Revenge. He ſubtilly magnifyed, through the deſcant which he made on each particular, the Cauſe he had to hate the Count; he ſet before him the ſhameful Conſequences which at<g ref="char:EOLhyphen"/>tend ſuch Adventures, and pointing at the neceſſity there was, for a man of his Honour and Quality, not to let ſuch a Treachery go un<g ref="char:EOLhyphen"/>puniſhed, he thought to have re<g ref="char:EOLhyphen"/>duced him to a fit condition, to make him embrace with Zeal, an important occaſion that there was,
+<pb n="135" facs="tcp:38561:74"/> of ruining ſo baſe a Friend. <hi>The way is eaſy,</hi> ſaid he: <hi>The King this night goes to lye out of Town, to be ready for the Chace to mor<g ref="char:EOLhyphen"/>row. The Queen has found out ſome weak pretences to excuſe her ſelf from it; but of truth, it is to have the freedom of paſſing the whole night with Count</hi> Tarnaw. <hi>What I tell you here,</hi> continued he, with a tone and ayre to render the thing moſt certain, <hi>I have if from the Original. I leave you to think, if it be not a certain way of Revenge for you; and if giving notice to the King of it, like a true Subject, You can fail of having them ſurpriſed together, and of rendring your ſelf at the ſame time conſiderable with the King.</hi> The Duke ſtrangely ſurpriſed at the Prelates propoſition, gave him a full Attention. There was no doubt but that Jealouſie, which was very ſtrong in him, did find great ſa<g ref="char:EOLhyphen"/>tisfaction in that deſign, and Ven<g ref="char:EOLhyphen"/>geance did alſo ſpur him on, to
+<pb n="136" facs="tcp:38561:75"/> make uſe of it. But his ſoul did find ſo much Unworthyneſs in the act, that he could never conſent to it. He therefore told the Bi<g ref="char:EOLhyphen"/>ſhop, that he could not reſolve to do what he propos'd, and that there were other braver wayes of Revenge. That he had learn'd to uſe that Sword which he wore; and that there was but that only way, which could give him ſatiſ<g ref="char:EOLhyphen"/>faction as to <hi>Tarnaw</hi>'s action. The Biſhop ſtrangely ſurpris'd, and as ſorry that he had no better ſuc<g ref="char:EOLhyphen"/>ceſs in his deſign, diſſembled his Spight and Confuſion; and to patch things up again, he ſeem'd to be partly of the Dukes mind, of whom he begged Secrecy, and retired home, to think on what he had to do.</p>
+            <p>Church-men rarely forgive. That Revenge which they forbid in o<g ref="char:EOLhyphen"/>thers, is a delicate Morſel which they reſerve for themſelves. This had his Soul too much ulcerated
+<pb n="137" facs="tcp:38561:75"/> with the Queens Cruelties, and a<g ref="char:EOLhyphen"/>bove all againſt <hi>Tarnaw.</hi> It was not to be hoped, that he would let ſcape ſo fair an occaſion of ruining them both. His Policy had prompted him at the firſt to make uſe of the Duke; but ſee<g ref="char:EOLhyphen"/>ing he was ſo weak (as he thought) as to refuſe thoſe means which were offered him, as to his Revenge, he knew the way of uſeing them himſelf; and no body ſhould know from whence the Blow came, unleſs the Duke contrary to his word ſhould divulge the Secret. He takes a Pen, and hav<g ref="char:EOLhyphen"/>ing the perfect art of counterfeit<g ref="char:EOLhyphen"/>ing his own hand writing, he wrote this Note to be given ſecret<g ref="char:EOLhyphen"/>ly to the King, when arriv'd at that Country houſe, where he was to lye that night.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>A</hi> Faithful Subject thinks he does his duty in advertiſing his Prince, when he is diſhonour'd. If
+<pb n="138" facs="tcp:38561:76"/> with a little diligence you this night repair to the Caſtle, there will be found at any time of coming, the Queen up, and <hi>Tarnaw</hi> at her feet.</p>
+               </body>
+            </floatingText>
+            <p>This Note finiſh'd, he ſealed it, and ſent it to a man who he had near the King, who was wholly devoted to the Prelate; but he took care to inſtruct him withall, by what means he ſhould make it fall into his Maſters hands. His Heart being at reſt on that ſide, he was to pleaſe it on the other, which did no leſs move him. He raiſed his Rage ſo far, as to have the ſa<g ref="char:EOLhyphen"/>tisfaction of being Witneſs of the ſucceſs of the Note. The Queens Chamber anſwered into the great Garden; there was a Gallery un<g ref="char:EOLhyphen"/>der the windows, through which that Princeſs could deſcend into that Garden, when ſhe had a deſire to walk. The Biſhop who had pow<g ref="char:EOLhyphen"/>er enough in the Caſtle to cauſe
+<pb n="139" facs="tcp:38561:76"/> all places to be open'd to him, at all hours, thought to have found what he ſought for, and that this Gallery was a fit place from whence to ſee, without danger of diſcovery, all that he deſired to ſee. This only Imagination did almoſt bring him beyond himſelf; he fancied a thouſand things, which were to be acted in that Cham<g ref="char:EOLhyphen"/>ber; which thoughts tranſported him. The hour finally was no ſooner come of executing his deſign, but he took the way to the Caſtle, and rendred himſelf at the quarters of him, who had the care of the Garden; the entry into which he ſoon obtain'd under ſpecious Pre<g ref="char:EOLhyphen"/>tences. The night was very dark. He is the moſt ſatisfied of all men: But he was not yet where he wiſh<g ref="char:EOLhyphen"/>ed to be; and having found the door of the ſtaires of that Gallery ſhut, he found that he had rejoyced too ſoon, and that nothing was done yet to any purpoſe, except his Wit,
+<pb n="140" facs="tcp:38561:77"/> or rather ſome help from Heaven did aſſiſt him in climbing up to that Gallery. Perſons of that Cha<g ref="char:EOLhyphen"/>racter, are ſo well accuſtomed to implore on all accounts the aſſiſt<g ref="char:EOLhyphen"/>ance of the Heavenly grace, that they employ their Vows &amp; Prayers indifferently on good &amp; bad things. Our Prelate goes and comes, ſeeks, runs all over the Garden without lighting of any thing that could ſo much as ſecond his good deſires: At laſt as he ſtood gazing towards the windows, whence there came forth a very great light, he thought that he ſaw ſomething hanging on the Gallery. He preſently takes hold of it, finds it to be a Rope, and that rope a Ladder, to get up thither. What joy was this for him! Thus was the Heavens open'd; he doubted not but that it was the happy <hi>Counts</hi> Amorous Ladder; and without looſing of time in rea<g ref="char:EOLhyphen"/>ſoning, whether one might with prudence adventure on it, carryed
+<pb n="141" facs="tcp:38561:77"/> headlong by his Paſſion, he begins to climb with ſuch Nimbleneſs, and Dexterity, as did outgo the natural diſpoſition of his body; for the good Lord was ſomewhat loaden with matter. He was already got to the uppermoſt Round with his hand, when Misfortune would ſo have it, that an unlucky Spirit on the ſuddain looſen'd the Ladder, to make him break his neck. He had a Leg out of Joynt; and that was not all neither, for his Back, his Head, his Armes, and all the other parts of his Body, were made ſenſible of ſo cruel a Fall: Never was ſuch a Diſaſter, none but one ſo hardned unto misfortunes as he was, could endure the pain, and live. At the firſt he let go a very great Outcry, which he could not retain; after which uſing great violence with himſelf, to re<g ref="char:EOLhyphen"/>frain from making any further noiſe, he endeavoured to drag him<g ref="char:EOLhyphen"/>ſelf as well as he could towards
+<pb n="142" facs="tcp:38561:78"/> that door he had come in at. He had rather have dyed a thouſand times than given that ſatisfaction to the <hi>Queen</hi> and the <hi>Count,</hi> to let them know that it was he: <hi>Oh! <g ref="char:V">Ʋ</g>nfor<g ref="char:EOLhyphen"/>tunate day,</hi> cryed he to himſelf, <hi>What a Night haſt thou provided for me?</hi> He was creeping as faſt as he could, ſuffering in h s Soul, as well as in his Body, ſuch paines as it would be difficult to imagine, when he ſaw ſome People with a Lan<g ref="char:EOLhyphen"/>thorn which was coming towards him: He was not in a condition to avoid them; <hi>Who goes there?</hi> cry'd a Man? He was ſo out of him<g ref="char:EOLhyphen"/>ſelf, that he knew not the Voice; and without ſpeaking his Name, he deſired him to call ſome body to aſſiſt him in an Accident that had befallen him; <hi>What's that I hear,</hi> ſaid another? <hi>Is it not the Biſhop of</hi> Cracovia? <hi>Ah! My Lord,</hi> re<g ref="char:EOLhyphen"/>plyed the pityful <hi>Prelat,</hi> with a ſtrange ſurpriſal, finding that it was the King; <hi>Pardon an unfortu<g ref="char:EOLhyphen"/>nate
+<pb n="143" facs="tcp:38561:78"/> Wretch, who is going to give up the Ghoſt, if no pitty be taken of him. Sigiſmond,</hi> the Prince of the World, the moſt tender, mov'd as much as he had been affrighted at this diſcourſe, inquired of him what he ailed, and whether he was wounded, and what he was come there to do? But the unfortunate Pre<g ref="char:EOLhyphen"/>late, whether through the Anguiſh he felt, by his fall, or the Trouble he was in at the Kings preſence, did on the ſuddain looſe his ſpeech and fainted away.</p>
+            <p>Now that I may not confound my Recital with divers Incidents one upon another, which would be difficult to unravel all at once, as they happen'd that night, I ſhall begin to clear this, concerning the Biſhop.</p>
+            <p>The Duke, who had a more ge<g ref="char:EOLhyphen"/>nerous Soul than that of the Pre<g ref="char:EOLhyphen"/>late, not being able to reſolve on the ruine of his Rival, through ſuch means, would not however
+<pb n="144" facs="tcp:38561:79"/> neglect ſuch an Advice; but de<g ref="char:EOLhyphen"/>ſigned to advantage himſelf by it, if not as an open Enemy, yet however as a Jealous Lover. He had had the ſame thoughts of that Gallery as the Biſhop had. But he was ſo cautious as to fit himſelf with a Ladder of Rope, which had already ſerved him in other occa<g ref="char:EOLhyphen"/>ſions, better peradventure then this was. He came to the Garden, and through the means of ſome Iron hooks, which he caſt with ſtrength of arme on the Gallery, having found the means of faſtning his Ladder, he had got up very happyly; leaving his Machine hanging, that in caſe of neceſſity, it might al<g ref="char:EOLhyphen"/>wayes be ready to deſcend.</p>
+            <p>The <hi>Queen</hi> was in her Chamber with the happy <hi>Tarnaw,</hi> without the leaſt care or fear, having no other witneſs, but Love; rel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing all the delights which that God is capable to afford. The Bedſide on which they were, was ſo diſpoſed
+<pb n="145" facs="tcp:38561:79"/> that all could be ſeen that was done there from the Windows, whoſe Curtains by ill fortune were left undrawn; ſo that the over-curious Duke, did ſee with his own eyes ſuch things, as ſuffici<g ref="char:EOLhyphen"/>ently did puniſh his Curioſity. The <hi>Queen</hi> was ſeated on a pile of Cuſhions, of <hi>Crimſon Damask,</hi> and the Count near her, on the Carpet which cover'd the Eſtrade, having his fine head negligently reſting on that Princeſs knees; who paſſing her hand over his face, <hi>Well</hi> Tarnaw, ſaid ſhe, <hi>will you eſcape from me any more; and ſhall I again be put to the trouble of ſeek<g ref="char:EOLhyphen"/>ing for you? I will infuſe ſo much Love into you,</hi> added ſhe with ſome paſſion, <hi>before you get out of my hands again, that you ſhall have no more eyes but for me: I conſent to it my Princeſs,</hi> anſwered this Lover, with a paſſionate ayr, <hi>Redouble, if it be poſſible, that heat that I feel for you: It can coſt me but my Life.
+<pb n="146" facs="tcp:38561:80"/> But the pleaſure to dye for ſo charm<g ref="char:EOLhyphen"/>ing a Princeſs, is better than the happieſt Life, that the Heavens can give. You have forgot the Dutcheſs then,</hi> replyed the <hi>Queen</hi> languiſhing<g ref="char:EOLhyphen"/>ly. <hi>Ah! Madam,</hi> replyed that Lover, <hi>I have forgot all; and I only re<g ref="char:EOLhyphen"/>member that I love, and that I am beloved of all that which is moſt charm<g ref="char:EOLhyphen"/>ing in the World. That is not e<g ref="char:EOLhyphen"/>nough yet,</hi> replyed the <hi>Queen; I have ſomething more to exact from your paſſion. What can you ask of me Madam,</hi> replyed he, <hi>but what my heart will rejoyce at the perfor<g ref="char:EOLhyphen"/>mance of? I will have you,</hi> continued the <hi>Queen, to tell me your whole ſtory with the Dutcheſs.</hi> Tarnaw began to ſigh! <hi>You ſigh,</hi> ſaid that Princeſs? <hi>Yes Madam,</hi> replyed that Lover, <hi>I ſigh, becauſe that I cannot gueſs at the pleaſure you can have, in a Recital which can no longer have any thing that's pleaſing for me, and much leſs for you.</hi> But the <hi>Queen</hi> being reſolved to be ſatisfied, the
+<pb n="147" facs="tcp:38561:80"/> Count was forced to put himſelf in a readineſs to obey her. The Duke, who till then, had open'd his Eyes and Eares, unto things that did burſt his heart, was preparing with this ſtory for ſuch a Regalia as would make an end of killing him. And I verily believe that this time he had wiſhed to have been both deaf and blind: But he was to follow his deſtiny. <hi>Courage,</hi> ſaid he, <hi>Let us uſe the utmoſt of our Patience.</hi> When a certain noiſe which was coming from that ſide his Ladder was on, through the ſtreſs which the Biſhop made in getting up, made him turn his head, and oblig'd him at the ſame time to go ſee what it was: He no ſooner perceived that it was a man, whoſe Curioſity it may be did carry him unto that Boldneſs, as to know for what uſe the Ladder was there, but looſening preſently the Hooks, he ſent him down again faſter than he had a mind to go. He heard
+<pb n="148" facs="tcp:38561:81"/> him cry out, but he little troubled himſelf with it; his ſoul was ſo fill'd with Spight and Rage, that there was no room left for Pity and Compaſſion. If he had known that it was the Biſhop, he had con<g ref="char:EOLhyphen"/>ſolated himſelf by it of part of his troubles; for he loved him not; and that was the only Pleaſure that he was then capable of. He for ſome time after ſtill lent an ear to obſerve, whether this Adventure would not have ſome other con<g ref="char:EOLhyphen"/>cluſion. He thought the man very patient to make no more noiſe than he did. But he was ſtrangely ſur<g ref="char:EOLhyphen"/>pris'd when he heard the Kings voice; he knew it too well, and it was too different from others to be miſtaken. He did not well appre<g ref="char:EOLhyphen"/>hend what He ſaid; but as he thought He was ſpeaking to the man that was fallen; which he fancy<g ref="char:EOLhyphen"/>ed might be ſome of his People, that he had ſent to learn what paſſed on that ſide. He loſt no time;
+<pb n="149" facs="tcp:38561:81"/> there was none to loſe; and knock<g ref="char:EOLhyphen"/>ing two or three times at the <hi>Queens</hi> Chamber door, he caus'd a great Amazement in thoſe two Lo<g ref="char:EOLhyphen"/>vers. The <hi>Queen</hi> ſtrangely affright<g ref="char:EOLhyphen"/>ed, roſe with her Gallant to en<g ref="char:EOLhyphen"/>deavour to get him off; but too late; the other doors were alrea<g ref="char:EOLhyphen"/>dy ſeized on: Fear increaſes; ſhe doubts not but that it is the King: She knows not what to do: No place ſecure to conceal the poor <hi>Tarnaw</hi> in; there was nothing but the Chimney, which us'd to be lock'd up. She runs there with him, but no hopes of opening it. All thing conſpire their Ruine. There's greater knocking than ever. The Queen is paſt all hopes; at laſt <hi>Tarnaw</hi> makes a laſt attempt, and the danger giving him a double ſtrength, he breaks the lock, and maugre all other Obſtacles, he opens the Chimney, and finds it garniſh<g ref="char:EOLhyphen"/>ed with two perſons, which the great Diſtraction he was in, did not
+<pb n="150" facs="tcp:38561:82"/> permit him to diſcern at firſt. The <hi>Queen,</hi> who was in too great a Diſ<g ref="char:EOLhyphen"/>order of mind to perceive it, thinks of nothing, ſeeing that door open, then to run at that they knock<g ref="char:EOLhyphen"/>ed at; and finds that it was the Duke of <hi>Oſtrog:</hi> She remain'd con<g ref="char:EOLhyphen"/>founded at it at firſt! But having a little re-aſſur'd her ſelf, through the joy ſhe had that it was not that which ſhe feared; ſhe ſet her ſelf in a kew of quarrelling with the Duke, and asked with what Inſo<g ref="char:EOLhyphen"/>lency he durſt come at that hour thus to diſturb her in her Chamber, to kill her with Fear? <hi>It is not time now Madam,</hi> replyed the Duke very ſeriouſly, and with a loud voice, <hi>to treat me ill. I have ſeen all, I have heard all. And what have you ſeen or heard?</hi> interrupted that Princeſs, <hi>With what Authority do you come to examine my actions? Authority Madam</hi> replyed the Duke? <hi>I know what I owe you; But I give you notice that he that has all Right here, the King, is in the
+<pb n="151" facs="tcp:38561:82"/> Garden. The King in the Garden!</hi> replyed the Queen, changing her tone, <hi>then you do revenge your ſelf my Lord Duke. It would not be a<g ref="char:EOLhyphen"/>gainſt you Madam,</hi> anſwered the Duke, <hi>that I would revenge my ſelf. I can ruin you, I can ſave you; but make uſe of me, you will have occaſion for it, for the King is not here for nothing. Would you be generous,</hi> replyed the Queen, <hi>to that hight to forget.—You need not to fear any thing from me, Madam,</hi> reply<g ref="char:EOLhyphen"/>ed the Duke, <hi>and</hi> Count Tarnaw <hi>needs not to hide himſelf; It ſhould not be in ſuch an occaſion as this that I would appear his Enemy. But who do I ſee?</hi> added he, crying out, <hi>my Wife!</hi> At theſe words the Queen alſo having turn'd her head, did not ſee with leſs ſurpriſal than he, the Dutcheſs of <hi>Oſtrog,</hi> and <hi>Count To<g ref="char:EOLhyphen"/>por</hi> coming out of the Chimney, with <hi>Count Tarnaw:</hi> They ſtood ſtaring on one another without one word ſpeaking, as if there had
+<pb n="152" facs="tcp:38561:83"/> been a kind of Enchantment a<g ref="char:EOLhyphen"/>mongſt them that had rendr'd them ſpeechleſs. But their Souls did not expreſs themſelves the leſs, through their Eyes and Actions, each con<g ref="char:EOLhyphen"/>veying their ſighs on what con<g ref="char:EOLhyphen"/>cerned them moſt; above all the Queen, the Dutcheſs, and the Duke, who being agitated with different ſorts of Paſſions, had different Mo<g ref="char:EOLhyphen"/>tions, which ſometimes led them to<g ref="char:EOLhyphen"/>wards Jealouſie, ſometimes towards Shame. This dumb ſhew was ſuc<g ref="char:EOLhyphen"/>ceeded by another ſcene, which was no leſs troubleſome, which began at the Kings entring: This Prince very much troubled at the Biſhop's miſchance, who he thought to bee dead, had caus'd him to be taken up by his People which he had with him, and having given order to ſome body to take care of the unfortunate Prelate, and to put him without noiſe into ſome Cham<g ref="char:EOLhyphen"/>ber, not willing to loſe one mo<g ref="char:EOLhyphen"/>ment of time for fear of any ſurpri<g ref="char:EOLhyphen"/>ſal,
+<pb n="153" facs="tcp:38561:83"/> he cauſ'd two armed men to go before him, and advanced to<g ref="char:EOLhyphen"/>wards the Queens Appartment. He went up the Gallery, of which he had a key; and cauſing his two Guards to ſtay at the door, he went into the Queens Chamber. At firſt his Wonder was great, to find her in ſuch company; but his Joy was not leſs; for he had no deſire to find her guilty. That Princeſs, who had a Preſence of mind moſt admirable, did no ſooner ſee him, but running towards him; <hi>Ah! Sir at this hour to return ſo unexpectedly, doubtleſs that ſome extraordinary buſineſs has happened.</hi> The King was ſtill ſo diſ<g ref="char:EOLhyphen"/>turb'd at the troubleſome Diſtruſts which had brought him there, &amp; eſ<g ref="char:EOLhyphen"/>pecially at the ſad ſight of the Biſhop of <hi>Cracovia,</hi> that he could not an<g ref="char:EOLhyphen"/>ſwer any thing to the Queen; which made that Princeſs to continue in this manner: <hi>You doubtleſs think it very strange, Sir, to ſee ſuch Perſons here, who according to a great deal
+<pb n="154" facs="tcp:38561:84"/> of reaſon ſhould not be together; But I was willing to end what I had begun; I thought,</hi> continued ſhe, <hi>that I ſhould do a thing which would pleaſe you, in reconciling the Duke and</hi> Count Tarnaw <hi>together, and I have taken the moſt interreſt'd Partyes for wit<g ref="char:EOLhyphen"/>neſs. I have heard the Juſtifications of the accuſed; and finally they are all agreed.</hi> The King did ſeem to be well ſatisfied with that Accomodation, having no great difficulty of adding faith unto that which the Queen ſaid, ſeeing that no Perſon in the Company durſt contradict her: But for all that he had a deſign, to cauſe thoſe three Lords to be arreſt<g ref="char:EOLhyphen"/>ed, if not on his account, at leaſt on that of the Biſhop's death, of whom he would know who was guilty; when one of his Servants came and told him, that the Biſhop was bet<g ref="char:EOLhyphen"/>ter, and that his greateſt hurt was his Ancle out of joynt. This news having in ſome meaſure ſet<g ref="char:EOLhyphen"/>led the Kings mind, He appeared
+<pb n="155" facs="tcp:38561:84"/> ſomething more chearful; but he being tired with his late journey, he would go reſt himſelf, putting off till the morrow the further clear<g ref="char:EOLhyphen"/>ing of all that nights Adventures: The Queen followed him, and the reſt of the Company went where they pleas'd; and I draw the Scene.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
